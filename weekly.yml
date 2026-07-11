@@ -1,0 +1,71 @@
+name: TVBox Weekly Checker
+
+on:
+
+  schedule:
+    # 台灣時間 星期日 08:00
+    - cron: "0 0 * * 0"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+
+  check:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+
+        uses: actions/setup-python@v5
+
+        with:
+
+          python-version: "3.11"
+
+      - name: Install
+
+        run: |
+
+          pip install -r requirements.txt
+
+      - name: Run
+
+        run: |
+
+          python check_urls.py
+
+      - name: Upload Report
+
+        uses: actions/upload-artifact@v4
+
+        with:
+
+          name: report
+
+          path: |
+            data/report.md
+            data/invalid_urls.txt
+            data/duplicate_urls.txt
+
+      - name: Commit
+
+        run: |
+
+          git config user.name github-actions
+
+          git config user.email github-actions@github.com
+
+          git add .
+
+          git diff --cached --quiet || git commit -m "Weekly Update"
+
+          git push
