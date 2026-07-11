@@ -5,51 +5,51 @@
 | 項目 | 數量 | 比例 |
 |------|------|------|
 | 總網址數 | 580 | 100% |
-| ✅ 有效 | 92 | 15.9% |
-| ❌ 失效 | 479 | 82.6% |
+| ✅ 有效 | 138 | 23.8% |
+| ❌ 失效 | 432 | 74.5% |
 | 🔄 重複 | 21 | 3.6% |
 
 ## 🧹 清理統計
 
 - **移除空白行**：0 行
-- **移除無網址行**：354 行
+- **移除無網址行**：332 行
 
-## ✅ 有效網址 (92)
+## ✅ 有效網址 (138)
 
 有效網址已儲存至：`data/source.txt`
 
 ## ❌ 無效網址列表
 
-- `http://xhztv.top/dc/神仙/api.json`
-- `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json`
-- `https://g.33445500.xyz/`
-- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
-- `http://fn.gcl.de5.net:5908/gsh950428`
-- `https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC`
-- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js`
-- `https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json`
 - `https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json`
+- `https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json`
+- `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json`
 - `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js`
-- `https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json`
-- `https://ym.wya6.cn/`
+- `https://play.iptv365.org/白嫖/api.json`
 - `https://play.iptv365.org/小米/api.json`
-- `https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js`
-- `https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json`
+- `https://clun.top/box.json`
+- `https://play.iptv365.org/骚零/api.json`
 - `https://clun.top/ok.json`
 - `https://clun.top/aa.json`
 - `https://clun.top/bb.json`
-- `https://play.iptv365.org/白嫖/api.json`
-- `https://clun.top/box.json`
-- `https://play.iptv365.org/骚零/api.json`
-- `https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js`
-- `http://www.饭太硬.cc/tv`
-- `https://7337.kstore.space/qxys/禁止传播.json`
-- `https://13537.kstore.vip/tvbox/test.json`
+- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
+- `https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC`
+- `https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json`
+- `http://xhztv.top/dc/神仙/api.json`
 - `https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json`
+- `https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json`
+- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5`
+- `https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5`
+- `http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5`
+- `https://9280.kstore.vip/cat/index.js.md5`
+- `https://raw.githubusercontent.com/git8477/wexfnw/refs/heads/main/index.js.md5`
 - `https://12301.kstore.space/精选库/jxuanc.txt`
-- `https://11405.kstore.space/xiaye/1080.json`
-- `http://xhztv.top/dc/动漫频道/api.json`
-- `http://xn--6orr3pi6g9uu.top`
+- `https://13537.kstore.vip/tvbox/test.json`
+- `https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2`
+- `https://9280.kstore.space/cat/index.js.md5`
+- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5`
+- `http://zhangqun1818.serv00.net/zq/api.json`
+- `https://ym.wya6.cn/`
+- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js.md5`
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
@@ -78,6 +78,6 @@
 完整清單請查看：`data/duplicate_urls.txt`
 
 ---
-🕐 更新時間：2026-07-11 06:42:06
+🕐 更新時間：2026-07-11 07:06:42
 
-✅ 報告由 TVBox URL Checker Pro v4 自動生成
+✅ 報告由 TVBox URL Checker Pro v4.1 自動生成
