@@ -6,7 +6,7 @@
 |------|------|------|
 | 總網址數 | 580 | 100% |
 | ✅ 有效 | 350 | 60.3% |
-| ❌ 失效 | 221 | 38.1% |
+| ❌ 失效 | 219 | 37.8% |
 | 🔄 重複 | 21 | 3.6% |
 
 ## 🧹 清理統計
@@ -21,35 +21,35 @@
 ## ❌ 無效網址列表
 
 - `https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC`
-- `https://play.iptv365.org/骚零/api.json`
-- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js`
 - `https://play.iptv365.org/白嫖/api.json`
 - `https://play.iptv365.org/小米/api.json`
+- `https://play.iptv365.org/骚零/api.json`
 - `https://raw.githubusercontent.com/git8477/wexfnw/refs/heads/main/index.js.md5`
-- `https://gh-proxy.org/https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json`
+- `https://ym.wya6.cn/`
 - `https://yydsys.netlify.app/config.json`
 - `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
 - `https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json`
-- `https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2`
+- `https://gh-proxy.org/https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json`
 - `https://7337.kstore.space/qxys/禁止传播.json`
-- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json`
-- `https://ym.wya6.cn/`
-- `https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json`
-- `https://12301.kstore.space/精选库/jxuanc.txt`
-- `https://bitbucket.org/xduo/cool/raw/main/room.json`
-- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json`
 - `https://13537.kstore.vip/tvbox/test.json`
-- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fongmi.json`
-- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json`
-- `https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json`
+- `https://12301.kstore.space/精选库/jxuanc.txt`
+- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json`
 - `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json`
-- `https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config`
+- `https://bitbucket.org/xduo/cool/raw/main/room.json`
+- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fongmi.json`
+- `https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json`
+- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json`
+- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json`
 - `http://fn.gcl.de5.net:5908/gsh950428`
-- `https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/春盈天下.json`
-- `https://jk.catvod.site/jk/1.json`
-- `https://d.kstore.dev/download/3376/2026.json`
+- `https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2`
+- `https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json`
+- `https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config`
 - `https://www.ls660.com/TV/suoo.json`
-- `https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`
+- `https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/春盈天下.json`
+- `https://d.kstore.dev/download/3376/2026.json`
+- `https://zzzy.shop/tv/`
+- `https://7337.kstore.vip/qxys/禁止传播.json`
+- `https://play.iptv365.org/短剧频道/api.json`
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
@@ -78,6 +78,6 @@
 完整清單請查看：`data/duplicate_urls.txt`
 
 ---
-🕐 更新時間：2026-07-11 07:58:32
+🕐 更新時間：2026-07-11 08:13:00
 
-✅ 報告由 TVBox URL Checker Pro v4.5 自動生成
+✅ 報告由 TVBox URL Checker Pro v4.6 自動生成
