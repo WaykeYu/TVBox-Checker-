@@ -2,16 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-TVBox URL Checker Pro v4.2
-終極相容版
+TVBox URL Checker Pro v4.3
+完美修復版 (解決中文路徑與參數誤判)
 
 更新重點
 -------------------------
-1. 【重大修正】針對 `.json` 網址：只要網路響應成功 (Status < 400)，直接判定有效！
-   --> 徹底解決大檔案 (如 video.json 達 6.5MB) 因唯讀前 2KB 導致特徵不足被誤殺的問題。
-   --> 徹底放行所有點播源、18禁成人專區 (index18.json)、自建/魔改 JSON 介面。
-2. 保留短網址與代理網址放寬策略：有響應即有效。
-3. 保持純粹：無代理解包，嚴格保留原始檔案格式與排版。
+1. 【重大修正】支援中文路徑：自動對網址進行標準 URL 安全編碼 (quote)，徹底解決如「/白嫖/api.json」等中文路徑導致伺服器回傳 400/404 的問題。
+2. 【智慧判定】放寬 .json 辨識：改用正則表達式檢查網址中是否含有 `.json`，防止網址後方帶有參數 (如 ?v=1) 時無法觸發 JSON 放行機制的漏洞。
+3. 保留所有高效特性：多執行緒驗證、取消代理解包、短網址/代理有響應即有效、嚴格保留原始檔案格式。
 """
 
 from __future__ import annotations
@@ -27,6 +25,7 @@ from dataclasses import dataclass, field
 import requests
 import yaml
 import urllib3
+from urllib.parse import urlparse, quote, urlunparse
 
 # 關閉 SSL 未驗證的警告提示
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -66,6 +65,7 @@ USER_AGENT = (
 # ============================================================================
 
 URL_PATTERN = re.compile(r"https?://[^\s<>\"']+")
+JSON_URL_PATTERN = re.compile(r"\.json(?:\?|$)", re.IGNORECASE)
 
 # 常見短網址域名特徵
 SHORT_URL_DOMAINS = {
@@ -76,7 +76,7 @@ SHORT_URL_DOMAINS = {
 # 代理網址特徵
 PROXY_KEYWORDS = ["scrapeops", "scraperapi", "proxy", "agent", "api?url=", "?url=", "&url="]
 
-# 無效內容關鍵詞 (僅用於常規非 JSON 網址的基礎過濾)
+# 無效內容關鍵詞
 INVALID_KEYWORDS = [
     "404 not found", "access denied", "502 bad gateway", "503 service unavailable"
 ]
@@ -128,6 +128,25 @@ class URLChecker:
         self.session.mount('https://', adapter)
         
         self.executor = ThreadPoolExecutor(max_workers=MAX_WORKERS)
+
+    def clean_url(self, url: str) -> str:
+        """【核心優化】對網址進行規範化，對中文路徑安全轉碼，避免 400/404 錯誤"""
+        try:
+            parsed = urlparse(url.strip())
+            # 僅對 path 部分進行 quote 轉碼（保留斜線 /），防範中文路徑
+            safe_path = quote(parsed.path, safe='/')
+            safe_query = quote(parsed.query, safe='=&?/')
+            sanitized_url = urlunparse((
+                parsed.scheme,
+                parsed.netloc,
+                safe_path,
+                parsed.params,
+                safe_query,
+                parsed.fragment
+            ))
+            return sanitized_url
+        except Exception:
+            return url
 
     def load(self) -> List[str]:
         p = Path(INPUT_FILE)
@@ -182,13 +201,16 @@ class URLChecker:
         if any(kw in url_lower for kw in PROXY_KEYWORDS):
             return True
         try:
-            from urllib.parse import urlparse
             domain = urlparse(url).netloc.lower().split(':')[0]
             if domain in SHORT_URL_DOMAINS:
                 return True
         except Exception:
             pass
         return False
+
+    def is_json_url(self, url: str) -> bool:
+        """【智慧判定】使用正則判定網址是否包含 .json 結尾或帶有參數"""
+        return bool(JSON_URL_PATTERN.search(url))
 
     def process_url(self, url: str) -> Optional[CheckResult]:
         self.total += 1
@@ -198,8 +220,12 @@ class URLChecker:
             return CheckResult(url=url, is_valid=False, error_message="重複 URL")
         
         self.seen_urls.add(url)
-        is_valid = self.url_status.get(url) if url in self.url_status else self.check_url(url)
-        self.url_status[url] = is_valid
+        
+        # 進行網址中文安全編碼清理
+        safe_url = self.clean_url(url)
+        
+        is_valid = self.url_status.get(safe_url) if safe_url in self.url_status else self.check_url(safe_url)
+        self.url_status[safe_url] = is_valid
         
         if is_valid:
             self.valid += 1
@@ -271,15 +297,13 @@ class URLChecker:
 
     def check_url(self, url: str) -> bool:
         """核心連線校驗"""
-        url_lower = url.lower()
         for attempt in range(RETRY):
             try:
                 # 1. HEAD 預檢
                 try:
                     head_response = self.session.head(url, timeout=TIMEOUT, allow_redirects=True, verify=False)
                     if head_response.status_code < 400:
-                        # 如果是短網址、代理網址或字尾為 .json 的網址，HEAD 成功即放行
-                        if self.is_short_or_proxy_url(url) or url_lower.endswith('.json'):
+                        if self.is_short_or_proxy_url(url) or self.is_json_url(url):
                             return True
                 except Exception:
                     pass
@@ -296,11 +320,11 @@ class URLChecker:
                         continue
                     return False
                 
-                # 【核心策略升級】如果是短網址、代理網址或以 .json 結尾的網址，只要連線響應成功直接視為有效！
-                if self.is_short_or_proxy_url(url) or url_lower.endswith('.json'):
+                # 如果是短網址、代理網址或路徑含 .json 的網址，響應成功直接過關
+                if self.is_short_or_proxy_url(url) or self.is_json_url(url):
                     return True
                 
-                # 3. 其他非 JSON 的常規網址（如 .txt, .m3u8 等）才讀取前 2KB 進行特徵比對
+                # 3. 其他非 JSON 的常規網址才讀取前 2KB 進行特徵比對
                 content = self._read_content(response)
                 if self.validate_content(url, content):
                     return True
@@ -388,12 +412,12 @@ class URLChecker:
             lines.append(f"完整清單請查看：`{DUPLICATE_FILE}`")
         else:
             lines.append("✅ 沒有重複網址")
-        lines.extend(["", "---", f"🕐 更新時間：{time.strftime('%Y-%m-%d %H:%M:%S')}", "", "✅ 報告由 TVBox URL Checker Pro v4.2 自動生成"])
+        lines.extend(["", "---", f"🕐 更新時間：{time.strftime('%Y-%m-%d %H:%M:%S')}", "", "✅ 報告由 TVBox URL Checker Pro v4.3 自動生成"])
         Path(REPORT_FILE).write_text("\n".join(lines), encoding="utf-8")
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("🚀 TVBox URL Checker Pro v4.2 (終極相容版)")
+    print("🚀 TVBox URL Checker Pro v4.3 (完美修復版)")
     print("=" * 70)
     start_time = time.time()
     try:
