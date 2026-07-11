@@ -14,7 +14,7 @@
 ## 🧹 清理統計
 
 - **移除空白行**：0 行
-- **移除無網址行**：184 行
+- **移除無網址行**：5 行
 
 ## ✅ 有效網址 (0)
 
@@ -22,37 +22,16 @@
 
 ## ❌ 無效網址列表
 
-- `https://盒子迷.top/禁止贩卖`
-- `https://www.ls660.com/TV/iptv.txt`
-- `http://rihou.cc:88/demo.php`
+- `https://700sjro44343.vicp.fun/eggp/0211/tv.json`
+- `http://530.my3v.work/hxck.json`
+- `http://www.饭太硬.art/tv`
+- `http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json`
+- `https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u`
 - `https://pastebin.com/raw/gtbKvnE1`
-- `https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json`
-- `https://catbox.n13.club/jk/t4.json`
-- `https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xfnn.json`
-- `https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/dfvdv.json`
-- `https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xfnn.json`
-- `https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/dfvdv.json`
-- `https://gh-proxy.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt`
-- `http://ygbhbox.3vfree.club/pg/jsm.json`
-- `http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg/jsm2.json`
-- `http://navo.top/qMjeUr`
-- `http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json`
-- `http://xmbjm.fh4u.org/dc.txt`
-- `https://d1y.github.io/kitty/t4.json`
-- `http://肥猫.com`
-- `http://hello.肥猫.com`
-- `http://肥猫.com/`
-- `http://154.40.47.87:999/TVbox/y1.json`
-- `https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json`
-- `https://tv.youdu.fan:666`
-- `https://tv.youdu.fan:666/毒盒影视/`
-- `http://xhztv.top/xhz`
-- `http://xhztv.top/dc`
-- `http://xhztv.top/DC.txt`
+- `http://550.3vcn.work/cbh.json`
 - `https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json`
 - `http://8.138.7.223/tv.txt`
 - `https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u`
-- ... 還有 53 個
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
@@ -60,6 +39,6 @@
 ✅ 沒有重複網址
 
 ---
-🕐 更新時間：2026-07-11 04:25:59
+🕐 更新時間：2026-07-11 05:32:13
 
 ✅ 報告由 TVBox URL Checker Pro v4 自動生成

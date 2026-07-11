@@ -12,6 +12,7 @@
 21. http://xhztv.top/dc/神仙/api.json
 22. https://play.iptv365.org/骚零/api.json
 25. https://play.iptv365.org/小米/api.json
+https://700sjro44343.vicp.fun/eggp/0211/tv.json
 https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
 10.潇洒https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC
 http://xn--5mqx81b535a.com/
@@ -148,6 +149,7 @@ https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
 https://play.iptv365.org/短剧频道/api.json
 https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
 https://6492.kstore.space/xnf/xnf.json
+http://530.my3v.work/hxck.json
 https://www.ls660.com/TV/tvbox.json
 http://z.qiqiv.cn/123.json
 https://6800.kstore.vip/fish.json
@@ -169,6 +171,7 @@ http://fty.xxooo.cf/tv
 http://饭太硬.com/tv
 http://www.饭太硬.xyz/tv
 http://xhztv.top/dc/饭太硬/api.json
+http://www.饭太硬.art/tv
 备用接口①：http://feimao.pro
 备用接口③：https://6296.kstore.space/fm.gif
 http://肥猫.live
@@ -207,6 +210,7 @@ http://ok521.top/tv
 http://ok521.top/ok
 https://ztha.top/TVBox/thdjk.json
 http://ztha.top/TVBox/GYCK.json
+http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json
 http://7337.kstore.space/qxys/禁止传播.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://7337.kstore.vip/tw.json
@@ -260,6 +264,7 @@ MV直播接口：https://codeberg.org/mzjk0/api/raw/branch/main/MKV.json
 Global直播源：https://live.fanmingming.com/tv/m3u/global.m3u
 https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
 https://gitee.com/qlysgzs/qlys/raw/master/qlyc_tv.txt
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 小齐大佬直播接口：https://gitee.com/xiaoqiapi/xiaoqi-network/raw/master/zhibo.txt
 本群LU大佬直播接口：https://gitee.com/lu-xiaoming-0168/lu/raw/广州台/电视直播.png
 盛世直播接口：https://9245.kstore.space/盛世.txt
@@ -290,6 +295,7 @@ https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/p
 http://pandown.pro/tvbox/tvbox.json
 https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
 https://dxawi.github.io/0/0.json
+卧龙资源: https://pastebin.com/raw/gtbKvnE1
 https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
 https://kjsc0310.github.io/tvy/jk9.json
 https://wds.ecsxs.com/223843.txt
@@ -314,6 +320,7 @@ https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json
 鸟叔接口：https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json
 影探4K： http://www.lyyytv.cn/yt/yt.json
 优质接口：https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json
+绿茶影院：http://550.3vcn.work/cbh.json
 私人影院：http://550.3vcn.work/xj.json
 果冻自用：https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/jelly.json
 龙伊线路：https://龙伊.top
@@ -479,6 +486,7 @@ su7：http://www.su7.run/
 全网影视：https://d.kstore.dev/download/12441/dc6.json
 电视盒子集（多线路）：https://chuanshuo.77blog.cn/dc.json
 开源地址: https://github.com/wwb521/live
+小伟来了仓库: https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
 https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json
 独家: http://ficfac.com/tv/box.json
 雷蒙线路: https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json
@@ -488,4 +496,7 @@ UC盘链接：https://drive.uc.cn/s/9b06cfa319864?public=1
 不好意思点播：https://raw.githubusercontent.com/wwb521/live/main/video.json
 不好意思点播：https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json
 不好意思点播：https://clun.top/fun.json
-不好意思点播：https://gzy.lzo.publicvm.com
+榴芒电视:http://8.138.7.223/tv.txt
+不好意思点播：https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u
+不好意思点播：https://gzy.lzo.publicvm.com 
+
