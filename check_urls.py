@@ -3,7 +3,16 @@
 
 """
 TVBox URL Checker Pro v4
-Part 1 - 強化版 (含代理解包) - 修正版
+Part 1 - 簡化版 (取消代理解包 + 短網址/代理網址寬鬆驗證)
+
+功能
+-------------------------
+✓ 讀取 TXT 並保留原格式
+✓ 去除重覆網址
+✓ 多執行緒高效驗證
+✓ 去除空白行、無網址行
+✓ 短網址與代理網址：有響應即判定有效 (放寬校驗)
+✓ 常規網址 (.json/.m3u8/.txt) 深度內容合規性校驗
 """
 
 from __future__ import annotations
@@ -14,9 +23,8 @@ import socket
 import time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
-from typing import List, Tuple, Optional, Set, Dict
+from typing import List, Optional, Set, Dict
 from dataclasses import dataclass, field
-from urllib.parse import urlparse, parse_qs, unquote
 import requests
 import yaml
 import urllib3
@@ -38,18 +46,12 @@ INPUT_FILE = cfg.get("input", "data/source.txt")
 OUTPUT_FILE = cfg.get("output", "data/source_clean.txt")
 INVALID_FILE = cfg.get("invalid", "data/invalid_urls.txt")
 DUPLICATE_FILE = cfg.get("duplicate", "data/duplicate_urls.txt")
-PROXY_FILE = cfg.get("proxy", "data/proxy_urls.txt")
-UNPROXY_FILE = cfg.get("unproxy", "data/unproxy_urls.txt")
 REPORT_FILE = cfg.get("report", "data/report.md")
 MAX_WORKERS = cfg.get("workers", 50)
 TIMEOUT = cfg.get("timeout", 8)
 RETRY = cfg.get("retry", 3)
 BACKUP_ENABLED = cfg.get("backup", True)
 HISTORY_DIR = cfg.get("history", "data/history")
-
-# 代理解包設定
-PROXY_UNPACK_ENABLED = cfg.get("proxy_unpack", True)
-PROXY_UNPACK_DEPTH = cfg.get("proxy_unpack_depth", 3)
 
 USER_AGENT = (
     "Mozilla/5.0 "
@@ -61,53 +63,31 @@ USER_AGENT = (
 )
 
 # ============================================================================
-# 常數定義
+# 常數與資料結構
 # ============================================================================
 
 URL_PATTERN = re.compile(r"https?://[^\s<>\"']+")
 
+# 常見短網址域名特徵 (可根據需求自行增減)
+SHORT_URL_DOMAINS = {
+    "t.cn", "url.cn", "suo.yt", "suo.im", "dwz.cn", "bit.ly", "tinyurl.com", 
+    "git.io", "cutt.ly", "shorturl.at", "rebrand.ly", "t.ly", "is.gd"
+}
+
+# 代理網址特徵 (包含常見代理解析網址或特徵關鍵字)
+PROXY_KEYWORDS = ["scrapeops", "scraperapi", "proxy", "agent", "api?url=", "?url=", "&url="]
+
+# 無效內容關鍵詞 (僅用於常規網址深度校驗)
 INVALID_KEYWORDS = [
     "404", "not found", "access denied", "forbidden", "error",
     "502 bad gateway", "503 service", "nginx", "<html"
 ]
-
-PROXY_SERVICES = {
-    "scrapeops": (r"scrapeops\.io", "url"),
-    "oxylabs": (r"oxylabs\.io", "url"),
-    "brightdata": (r"brightdata\.com|luminati\.io", "url"),
-    "smartproxy": (r"smartproxy\.com", "url"),
-    "soax": (r"soax\.com", "url"),
-    "netnut": (r"netnut\.io", "url"),
-    "iproyal": (r"iproyal\.com", "url"),
-    "webshare": (r"webshare\.io", "url"),
-    "proxyrack": (r"proxyrack\.com", "url"),
-    "zenrows": (r"zenrows\.com", "url"),
-    "scrapingbee": (r"scrapingbee\.com", "url"),
-    "scrapingfish": (r"scrapingfish\.com", "url"),
-    "scraperapi": (r"scraperapi\.com", "url"),
-}
-
-PROXY_PARAMS = [
-    "url", "target", "destination", "dest", "to", "redirect",
-    "redirect_uri", "continue", "next", "return", "return_url",
-    "callback", "callback_url", "forward", "forward_url", "proxy_url", "proxy_dest"
-]
-
-# ============================================================================
-# 資料結構
-# ============================================================================
 
 @dataclass
 class CheckResult:
     """單一 URL 檢查結果"""
     url: str
     is_valid: bool
-    original_url: Optional[str] = None
-    unpacked_url: Optional[str] = None
-    unpack_depth: int = 0
-    is_proxy: bool = False
-    proxy_type: Optional[str] = None
-    status_code: Optional[int] = None
     error_message: Optional[str] = None
 
 @dataclass
@@ -119,134 +99,27 @@ class LineResult:
     valid_urls: List[str] = field(default_factory=list)
     invalid_urls: List[str] = field(default_factory=list)
     duplicate_urls: List[str] = field(default_factory=list)
-    proxy_urls: List[str] = field(default_factory=list)
-    unpacked_urls: List[str] = field(default_factory=list)
 
 # ============================================================================
-# URL 解包器
-# ============================================================================
-
-class URLUnpacker:
-    """代理網址解包器"""
-    def __init__(self):
-        self.proxy_patterns = self._compile_proxy_patterns()
-        self.unpacked_cache: Dict[str, Tuple[str, int]] = {}
-    
-    def _compile_proxy_patterns(self) -> Dict[str, Dict]:
-        patterns = {}
-        for service, (pattern, param) in PROXY_SERVICES.items():
-            patterns[service] = {
-                'pattern': re.compile(pattern, re.IGNORECASE),
-                'param': param
-            }
-        return patterns
-    
-    def unpack_url(self, url: str, depth: int = 0, max_depth: int = 3) -> Tuple[str, int, bool]:
-        if not PROXY_UNPACK_ENABLED or depth >= max_depth:
-            return url, depth, False
-        
-        cache_key = f"{url}_{depth}"
-        if cache_key in self.unpacked_cache:
-            cached_url, cached_depth = self.unpacked_cache[cache_key]
-            return cached_url, cached_depth, cached_url != url
-        
-        unpacked = self._extract_real_url(url)
-        if unpacked and unpacked != url:
-            real_url, new_depth, _ = self.unpack_url(unpacked, depth + 1, max_depth)
-            self.unpacked_cache[cache_key] = (real_url, new_depth)
-            return real_url, new_depth, True
-        
-        self.unpacked_cache[cache_key] = (url, depth)
-        return url, depth, False
-    
-    def _extract_real_url(self, url: str) -> Optional[str]:
-        try:
-            parsed = urlparse(url)
-            params = parse_qs(parsed.query)
-            
-            for param in PROXY_PARAMS:
-                if param in params:
-                    real_url = unquote(params[param][0])
-                    if self._is_valid_url(real_url):
-                        return real_url
-            
-            path_patterns = [
-                r'/prox(ies|y)/(https?://[^\s/]+.*)',
-                r'/api/proxy/(https?://[^\s/]+.*)',
-                r'/(fetch|get|redirect|go|link|out)/(https?://[^\s/]+.*)',
-            ]
-            for pattern in path_patterns:
-                match = re.search(pattern, parsed.path)
-                if match:
-                    real_url = unquote(match.group(2))
-                    if self._is_valid_url(real_url):
-                        return real_url
-            
-            domain = parsed.netloc.lower()
-            for service, info in self.proxy_patterns.items():
-                if info['pattern'].search(domain):
-                    param = info['param']
-                    if param in params:
-                        real_url = unquote(params[param][0])
-                        if self._is_valid_url(real_url):
-                            return real_url
-            
-            if parsed.path and ('%3A' in parsed.path or '%2F' in parsed.path):
-                decoded_path = unquote(parsed.path)
-                url_match = re.search(r'https?://[^\s<>"\']+', decoded_path)
-                if url_match and self._is_valid_url(url_match.group(0)):
-                    return url_match.group(0)
-            
-            return None
-        except Exception:
-            return None
-    
-    def _is_valid_url(self, url: str) -> bool:
-        if not url: return False
-        try:
-            parsed = urlparse(url)
-            return parsed.scheme in ('http', 'https') and bool(parsed.netloc)
-        except Exception:
-            return False
-    
-    def get_proxy_type(self, url: str) -> Optional[str]:
-        try:
-            parsed = urlparse(url)
-            domain = parsed.netloc.lower()
-            for service, info in self.proxy_patterns.items():
-                if info['pattern'].search(domain):
-                    return service
-            
-            params = parse_qs(parsed.query)
-            if any(p in params for p in PROXY_PARAMS):
-                return "通用代理"
-            return None
-        except Exception:
-            return None
-
-# ============================================================================
-# URL 檢查器
+# URL 檢查器主類別
 # ============================================================================
 
 class URLChecker:
-    """URL 檢查器主類別 - 含代理解包"""
+    """URL 檢查器主類別 - 高效多執行緒版"""
     def __init__(self):
         self.total = 0
         self.valid = 0
         self.invalid = 0
         self.duplicate = 0
-        self.proxy_count = 0
-        self.unpacked_count = 0
         self.empty_lines = 0
         self.no_url_lines = 0
         
         self.seen_urls: Set[str] = set()
         self.invalid_urls: List[str] = []
         self.duplicate_urls: List[str] = []
-        self.proxy_urls: List[str] = []
-        self.unpacked_urls: List[str] = []
         self.url_status: Dict[str, bool] = {}
         
+        # 建立 Session 與連線池
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": USER_AGENT})
         
@@ -258,7 +131,6 @@ class URLChecker:
         self.session.mount('http://', adapter)
         self.session.mount('https://', adapter)
         
-        self.unpacker = URLUnpacker()
         # 初始化共用的全域執行緒池
         self.executor = ThreadPoolExecutor(max_workers=MAX_WORKERS)
 
@@ -302,80 +174,68 @@ class URLChecker:
         shutil.copy2(file_path, history_path / f"backup_{ts}.txt")
 
     def save_invalid(self) -> None:
-        if self.invalid_urls: Path(INVALID_FILE).write_text("\n".join(self.invalid_urls), encoding="utf-8")
+        if self.invalid_urls: 
+            Path(INVALID_FILE).write_text("\n".join(self.invalid_urls), encoding="utf-8")
 
     def save_duplicate(self) -> None:
-        if self.duplicate_urls: Path(DUPLICATE_FILE).write_text("\n".join(self.duplicate_urls), encoding="utf-8")
-
-    def save_proxy(self) -> None:
-        if self.proxy_urls: Path(PROXY_FILE).write_text("\n".join(self.proxy_urls), encoding="utf-8")
-
-    def save_unpacked(self) -> None:
-        if self.unpacked_urls: Path(UNPROXY_FILE).write_text("\n".join(self.unpacked_urls), encoding="utf-8")
+        if self.duplicate_urls: 
+            Path(DUPLICATE_FILE).write_text("\n".join(self.duplicate_urls), encoding="utf-8")
 
     def extract_urls(self, line: str) -> List[str]:
         return URL_PATTERN.findall(line)
 
+    def is_short_or_proxy_url(self, url: str) -> bool:
+        """判斷網址是否為短網址或代理網址"""
+        url_lower = url.lower()
+        
+        # 1. 檢查代理網址關鍵字
+        if any(kw in url_lower for kw in PROXY_KEYWORDS):
+            return True
+            
+        # 2. 檢查短網址域名特徵
+        try:
+            from urllib.parse import urlparse
+            domain = urlparse(url).netloc.lower()
+            # 移除 port (如果有，例如 localhost:8080 -> localhost)
+            domain = domain.split(':')[0]
+            if domain in SHORT_URL_DOMAINS:
+                return True
+        except Exception:
+            pass
+            
+        return False
+
     def process_url(self, url: str) -> Optional[CheckResult]:
         """處理單個 URL 核心邏輯（多執行緒進入點）"""
         self.total += 1
-        proxy_type = self.unpacker.get_proxy_type(url)
-        is_proxy = proxy_type is not None
         
-        if is_proxy and PROXY_UNPACK_ENABLED:
-            real_url, depth, unpacked = self.unpacker.unpack_url(url, max_depth=PROXY_UNPACK_DEPTH)
-            if unpacked and real_url:
-                self.unpacked_count += 1
-                self.unpacked_urls.append(real_url)
-                
-                if real_url in self.seen_urls:
-                    self.duplicate += 1
-                    self.duplicate_urls.append(real_url)
-                    return CheckResult(url=real_url, original_url=url, unpacked_url=real_url, unpack_depth=depth, is_valid=False, is_proxy=True, proxy_type=proxy_type, error_message="解包後URL重複")
-                
-                self.seen_urls.add(real_url)
-                is_valid = self.check_url(real_url)
-                if is_valid:
-                    self.valid += 1
-                    return CheckResult(url=real_url, original_url=url, unpacked_url=real_url, unpack_depth=depth, is_valid=True, is_proxy=True, proxy_type=proxy_type)
-                else:
-                    self.invalid += 1
-                    self.invalid_urls.append(real_url)
-                    return CheckResult(url=real_url, original_url=url, unpacked_url=real_url, unpack_depth=depth, is_valid=False, is_proxy=True, proxy_type=proxy_type, error_message="解包後URL無效")
-            else:
-                self.proxy_count += 1
-                self.proxy_urls.append(url)
-                return CheckResult(url=url, is_valid=False, is_proxy=True, proxy_type=proxy_type, error_message="無法解包代理URL")
-        
-        if is_proxy:
-            self.proxy_count += 1
-            self.proxy_urls.append(url)
-        
+        # 重複網址過濾
         if url in self.seen_urls:
             self.duplicate += 1
             self.duplicate_urls.append(url)
-            return CheckResult(url=url, is_valid=False, is_proxy=is_proxy, proxy_type=proxy_type, error_message="重複 URL")
+            return CheckResult(url=url, is_valid=False, error_message="重複 URL")
         
         self.seen_urls.add(url)
+        
+        # 使用快取或發起連線檢查
         is_valid = self.url_status.get(url) if url in self.url_status else self.check_url(url)
         self.url_status[url] = is_valid
         
         if is_valid:
             self.valid += 1
-            return CheckResult(url=url, is_valid=True, is_proxy=is_proxy, proxy_type=proxy_type)
+            return CheckResult(url=url, is_valid=True)
         else:
             self.invalid += 1
             self.invalid_urls.append(url)
-            return CheckResult(url=url, is_valid=False, is_proxy=is_proxy, proxy_type=proxy_type, error_message="連線失敗或內容無效")
+            return CheckResult(url=url, is_valid=False, error_message="連線失敗或內容無效")
 
     def check_all(self) -> None:
+        """主排程控制"""
         lines = self.load()
         line_results: List[LineResult] = []
         all_tasks = []
         
-        print(f"🔍 開始檢查網址有效性...")
-        if PROXY_UNPACK_ENABLED:
-            print(f"🔄 代理解包已啟用 (最大深度: {PROXY_UNPACK_DEPTH})")
+        print(f"🔍 開始檢查網址有效性 (執行緒數: {MAX_WORKERS})...")
         
         for line_num, line in enumerate(lines, 1):
             urls = self.extract_urls(line)
@@ -385,7 +245,6 @@ class URLChecker:
             
             line_result = LineResult(original_line=line, cleaned_line=line, urls=urls)
             for url in urls:
-                # 提交給全域共用的 executor，且目標修正為 process_url
                 future = self.executor.submit(self.process_url, url)
                 all_tasks.append((future, url, line_result))
             
@@ -393,7 +252,7 @@ class URLChecker:
             if line_num % 50 == 0:
                 print(f"  進度: {line_num}/{len(lines)} 行")
         
-        print(f"  ⏳ 等待所有檢查完成...")
+        print(f"  ⏳ 等待所有連線響應...")
         processed_urls: Set[str] = set()
         
         for future, url, line_result in all_tasks:
@@ -402,18 +261,7 @@ class URLChecker:
                 if result and url not in processed_urls:
                     processed_urls.add(url)
                     
-                    if result.is_proxy and result.unpacked_url:
-                        if result.is_valid:
-                            line_result.unpacked_urls.append(result.unpacked_url)
-                            line_result.valid_urls.append(result.unpacked_url)
-                            line_result.cleaned_line = line_result.cleaned_line.replace(url, result.unpacked_url)
-                        else:
-                            line_result.invalid_urls.append(result.unpacked_url)
-                            line_result.cleaned_line = line_result.cleaned_line.replace(url, "")
-                    elif result.is_proxy:
-                        line_result.proxy_urls.append(url)
-                        line_result.cleaned_line = line_result.cleaned_line.replace(url, "")
-                    elif result.is_valid:
+                    if result.is_valid:
                         line_result.valid_urls.append(url)
                     else:
                         line_result.invalid_urls.append(url)
@@ -425,9 +273,7 @@ class URLChecker:
                 line_result.cleaned_line = line_result.cleaned_line.replace(url, "")
                 print(f"  ⚠️ 檢查 URL 失敗: {url[:50]}... - {str(e)}")
         
-        print(f"  ✅ 完成所有檢查")
-        
-        # 關閉執行緒池
+        print(f"  ✅ 完成所有網路檢查")
         self.executor.shutdown(wait=True)
         
         cleaned_lines = []
@@ -439,19 +285,27 @@ class URLChecker:
         self.save(cleaned_lines)
         self.save_invalid()
         self.save_duplicate()
-        self.save_proxy()
-        self.save_unpacked()
         self.generate_report()
 
+    # ========================================================================
+    # 網路連線與深度內容校驗
+    # ========================================================================
+
     def check_url(self, url: str) -> bool:
+        """網路效能校驗 (HEAD 預檢 + GET 串流拉取)"""
         for attempt in range(RETRY):
             try:
+                # 1. 嘗試使用低成本的 HEAD 請求預檢
                 try:
                     head_response = self.session.head(url, timeout=TIMEOUT, allow_redirects=True, verify=False)
-                    if head_response.status_code >= 400: pass
+                    if head_response.status_code < 400:
+                        # 【優化重點】如果是短網址或代理網址，且 HEAD 預檢直接成功響應，則判定為有效
+                        if self.is_short_or_proxy_url(url):
+                            return True
                 except Exception:
                     pass
                 
+                # 2. 正式發起 GET 串流請求
                 response = self.session.get(
                     url, timeout=TIMEOUT, allow_redirects=True, stream=True, verify=False,
                     headers={'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Connection': 'keep-alive'}
@@ -463,6 +317,11 @@ class URLChecker:
                         continue
                     return False
                 
+                # 【關鍵修改】如果該網址為短網址或代理網址，且狀態碼小於 400 (有正常響應)，直接視為有效！
+                if self.is_short_or_proxy_url(url):
+                    return True
+                
+                # 3. 常規網址：檢查基本檔案大小
                 content_length = response.headers.get('content-length')
                 if content_length and int(content_length) < 100:
                     if attempt < RETRY - 1:
@@ -470,6 +329,7 @@ class URLChecker:
                         continue
                     return False
                 
+                # 4. 常規網址：安全讀取前 2KB 內容做結構特徵比對
                 content = self._read_content(response)
                 if self.validate_content(url, content):
                     return True
@@ -500,6 +360,7 @@ class URLChecker:
         return content
 
     def validate_content(self, url: str, content: str) -> bool:
+        """常規網址的深度內容校驗 (短網址/代理網址不進入此處)"""
         if not content or len(content.strip()) < 10: return False
         url_lower = url.lower()
         if url_lower.endswith('.json'): return self._validate_json(content)
@@ -539,6 +400,10 @@ class URLChecker:
         if any(k in content_lower for k in ['404', 'forbidden', 'access denied', 'nginx', '<html', 'error']): return False
         return any(URL_PATTERN.search(line) for line in content.splitlines() if line.strip())
 
+    # ========================================================================
+    # 報告生成
+    # ========================================================================
+
     def generate_report(self) -> None:
         lines = [
             "# 📊 TVBox URL 檢查報告", "", "## 📈 統計摘要", "",
@@ -547,19 +412,11 @@ class URLChecker:
             f"| ✅ 有效 | {self.valid} | {(self.valid/self.total*100):.1f}% |" if self.total > 0 else "| ✅ 有效 | 0 | 0% |",
             f"| ❌ 失效 | {self.invalid} | {(self.invalid/self.total*100):.1f}% |" if self.total > 0 else "| ❌ 失效 | 0 | 0% |",
             f"| 🔄 重複 | {self.duplicate} | {(self.duplicate/self.total*100):.1f}% |" if self.total > 0 else "| 🔄 重複 | 0 | 0% |",
-            f"| 🛡️ 代理 | {self.proxy_count} | {(self.proxy_count/self.total*100):.1f}% |" if self.total > 0 else "| 🛡️ 代理 | 0 | 0% |",
-            f"| 🔓 解包 | {self.unpacked_count} | {(self.unpacked_count/self.total*100):.1f}% |" if self.total > 0 else "| 🔓 解包 | 0 | 0% |",
             "", "## 🧹 清理統計", "",
             f"- **移除空白行**：{self.empty_lines} 行", f"- **移除無網址行**：{self.no_url_lines} 行", "",
             f"## ✅ 有效網址 ({self.valid})", "", f"有效網址已儲存至：`{OUTPUT_FILE}`", ""
         ]
         
-        if self.unpacked_urls:
-            lines.extend(["## 🔓 成功解包的URL", "", f"共成功解包 **{len(self.unpacked_urls)}** 個代理網址。", ""])
-            for url in self.unpacked_urls[:30]: lines.append(f"- `{url}`")
-            if len(self.unpacked_urls) > 30: lines.append(f"- ... 還有 {len(self.unpacked_urls) - 30} 個")
-            lines.extend([f"完整清單請查看：`{UNPROXY_FILE}`", ""])
-            
         lines.extend(["## ❌ 無效網址列表", ""])
         if self.invalid_urls:
             for url in self.invalid_urls[:30]: lines.append(f"- `{url}`")
@@ -579,12 +436,12 @@ class URLChecker:
         print(f"📄 報告已生成：{REPORT_FILE}")
 
 # ============================================================================
-# 主程式
+# 主程式進入點
 # ============================================================================
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("🚀 TVBox URL Checker Pro v4 (含代理解包)")
+    print("🚀 TVBox URL Checker Pro v4 (寬鬆代理驗證版)")
     print("=" * 70)
     
     start_time = time.time()
@@ -599,8 +456,8 @@ if __name__ == "__main__":
         print(f"✅ 有效   : {checker.valid}")
         print(f"❌ 失效   : {checker.invalid}")
         print(f"🔄 重複   : {checker.duplicate}")
-        print(f"🛡️ 代理   : {checker.proxy_count}")
-        print(f"🔓 解包   : {checker.unpacked_count}")
+        print(f"🧹 移除空白行 : {checker.empty_lines}")
+        print(f"🧹 移除無網址行 : {checker.no_url_lines}")
         print(f"⏱️ 耗時   : {time.time() - start_time:.2f} 秒")
         print("=" * 70)
     except Exception as e:
