@@ -2,17 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-TVBox URL Checker Pro v4
-Part 1 - 簡化版 (取消代理解包 + 短網址/代理網址寬鬆驗證)
+TVBox URL Checker Pro v4.1
+最終整合版
 
-功能
+更新重點
 -------------------------
-✓ 讀取 TXT 並保留原格式
-✓ 去除重覆網址
-✓ 多執行緒高效驗證
-✓ 去除空白行、無網址行
-✓ 短網址與代理網址：有響應即判定有效 (放寬校驗)
-✓ 常規網址 (.json/.m3u8/.txt) 深度內容合規性校驗
+1. 取消處理代理解包：專注於純粹的高效驗證、去重與格式保留。
+2. 短網址與代理網址放寬：只要網絡連線有響應 (狀態碼 < 400)，直接判定有效。
+3. 解決 index18.json 誤判：移除過於嚴格的 TVBox 關鍵字綁定，只要回傳合法的 JSON 結構即放行，避免誤殺成人介面或魔改版分流。
 """
 
 from __future__ import annotations
@@ -68,19 +65,18 @@ USER_AGENT = (
 
 URL_PATTERN = re.compile(r"https?://[^\s<>\"']+")
 
-# 常見短網址域名特徵 (可根據需求自行增減)
+# 常見短網址域名特徵
 SHORT_URL_DOMAINS = {
     "t.cn", "url.cn", "suo.yt", "suo.im", "dwz.cn", "bit.ly", "tinyurl.com", 
     "git.io", "cutt.ly", "shorturl.at", "rebrand.ly", "t.ly", "is.gd"
 }
 
-# 代理網址特徵 (包含常見代理解析網址或特徵關鍵字)
+# 代理網址特徵
 PROXY_KEYWORDS = ["scrapeops", "scraperapi", "proxy", "agent", "api?url=", "?url=", "&url="]
 
-# 無效內容關鍵詞 (僅用於常規網址深度校驗)
+# 無效內容關鍵詞 (僅用於常規網址的基礎過濾)
 INVALID_KEYWORDS = [
-    "404", "not found", "access denied", "forbidden", "error",
-    "502 bad gateway", "503 service", "nginx", "<html"
+    "404 not found", "access denied", "502 bad gateway", "503 service unavailable"
 ]
 
 @dataclass
@@ -195,9 +191,7 @@ class URLChecker:
         # 2. 檢查短網址域名特徵
         try:
             from urllib.parse import urlparse
-            domain = urlparse(url).netloc.lower()
-            # 移除 port (如果有，例如 localhost:8080 -> localhost)
-            domain = domain.split(':')[0]
+            domain = urlparse(url).netloc.lower().split(':')[0]
             if domain in SHORT_URL_DOMAINS:
                 return True
         except Exception:
@@ -209,7 +203,7 @@ class URLChecker:
         """處理單個 URL 核心邏輯（多執行緒進入點）"""
         self.total += 1
         
-        # 重複網址過濾
+        # 重重複網址過濾
         if url in self.seen_urls:
             self.duplicate += 1
             self.duplicate_urls.append(url)
@@ -295,17 +289,16 @@ class URLChecker:
         """網路效能校驗 (HEAD 預檢 + GET 串流拉取)"""
         for attempt in range(RETRY):
             try:
-                # 1. 嘗試使用低成本的 HEAD 請求預檢
+                # 1. HEAD 預檢
                 try:
                     head_response = self.session.head(url, timeout=TIMEOUT, allow_redirects=True, verify=False)
                     if head_response.status_code < 400:
-                        # 【優化重點】如果是短網址或代理網址，且 HEAD 預檢直接成功響應，則判定為有效
                         if self.is_short_or_proxy_url(url):
                             return True
                 except Exception:
                     pass
                 
-                # 2. 正式發起 GET 串流請求
+                # 2. GET 串流請求
                 response = self.session.get(
                     url, timeout=TIMEOUT, allow_redirects=True, stream=True, verify=False,
                     headers={'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Connection': 'keep-alive'}
@@ -317,19 +310,11 @@ class URLChecker:
                         continue
                     return False
                 
-                # 【關鍵修改】如果該網址為短網址或代理網址，且狀態碼小於 400 (有正常響應)，直接視為有效！
+                # 若為短網址或代理網址，有正常響應 (狀態碼 < 400) 直接放行
                 if self.is_short_or_proxy_url(url):
                     return True
                 
-                # 3. 常規網址：檢查基本檔案大小
-                content_length = response.headers.get('content-length')
-                if content_length and int(content_length) < 100:
-                    if attempt < RETRY - 1:
-                        time.sleep(0.5 * (attempt + 1))
-                        continue
-                    return False
-                
-                # 4. 常規網址：安全讀取前 2KB 內容做結構特徵比對
+                # 3. 常規網址：讀取前 2KB 內容做類型判定
                 content = self._read_content(response)
                 if self.validate_content(url, content):
                     return True
@@ -360,9 +345,10 @@ class URLChecker:
         return content
 
     def validate_content(self, url: str, content: str) -> bool:
-        """常規網址的深度內容校驗 (短網址/代理網址不進入此處)"""
-        if not content or len(content.strip()) < 10: return False
+        """常規網址校驗"""
+        if not content or len(content.strip()) < 5: return False
         url_lower = url.lower()
+        
         if url_lower.endswith('.json'): return self._validate_json(content)
         elif url_lower.endswith('.xml'): return self._validate_xml(content)
         elif url_lower.endswith(('.m3u', '.m3u8')): return self._validate_m3u(content)
@@ -373,31 +359,33 @@ class URLChecker:
         content_lower = content.lower()
         for keyword in INVALID_KEYWORDS:
             if keyword in content_lower: return False
-        if len(content.strip()) < 20: return False
-        tvbox_indicators = ['url', 'name', 'title', 'channel', 'group', 'http', 'https', '://', 'm3u8', 'flv']
-        return sum(1 for ind in tvbox_indicators if ind in content_lower) >= 2
+        if len(content.strip()) < 15: return False
+        tvbox_indicators = ['url', 'name', 'title', 'channel', 'group', 'http', 'https', '://', 'm3u8', 'flv', 'spider']
+        return sum(1 for ind in tvbox_indicators if ind in content_lower) >= 1
 
     def _validate_json(self, content: str) -> bool:
+        """寬鬆版 JSON 驗證：相容所有魔改版與成人版 TVBox 結構"""
         content = content.strip()
-        if not content or len(content) < 20 or '<html' in content.lower(): return False
+        if not content or len(content) < 10 or '<html' in content.lower(): return False
         try:
             data = json.loads(content)
+            # 只要它是合法的 JSON 字典或陣列，且內含資料，就判定為有效
             if isinstance(data, dict):
-                return any(k in data for k in ['urls', 'channels', 'sites', 'apps']) or len(data) >= 2
+                return len(data) > 0
             return isinstance(data, list) and len(data) > 0
         except json.JSONDecodeError:
             return False
 
     def _validate_xml(self, content: str) -> bool:
         content_lower = content.lower()
-        return any(i in content_lower for i in ['<?xml', '<tv', '<rss', '<channel']) and ('http' in content_lower or 'channel' in content_lower)
+        return any(i in content_lower for i in ['<?xml', '<tv', '<rss', '<channel'])
 
     def _validate_m3u(self, content: str) -> bool:
-        return '#EXTM3U' in content.upper() and ('#EXTINF:' in content.upper() or 'HTTP' in content.upper())
+        return '#EXTM3U' in content.upper() or 'HTTP' in content.upper()
 
     def _validate_txt(self, content: str) -> bool:
         content_lower = content.lower()
-        if any(k in content_lower for k in ['404', 'forbidden', 'access denied', 'nginx', '<html', 'error']): return False
+        if '<html' in content_lower: return False
         return any(URL_PATTERN.search(line) for line in content.splitlines() if line.strip())
 
     # ========================================================================
@@ -431,7 +419,7 @@ class URLChecker:
         else:
             lines.append("✅ 沒有重複網址")
             
-        lines.extend(["", "---", f"🕐 更新時間：{time.strftime('%Y-%m-%d %H:%M:%S')}", "", "✅ 報告由 TVBox URL Checker Pro v4 自動生成"])
+        lines.extend(["", "---", f"🕐 更新時間：{time.strftime('%Y-%m-%d %H:%M:%S')}", "", "✅ 報告由 TVBox URL Checker Pro v4.1 自動生成"])
         Path(REPORT_FILE).write_text("\n".join(lines), encoding="utf-8")
         print(f"📄 報告已生成：{REPORT_FILE}")
 
@@ -441,7 +429,7 @@ class URLChecker:
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("🚀 TVBox URL Checker Pro v4 (寬鬆代理驗證版)")
+    print("🚀 TVBox URL Checker Pro v4.1 (完全修復優化版)")
     print("=" * 70)
     
     start_time = time.time()
