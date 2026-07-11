@@ -4,80 +4,89 @@
 
 | 項目 | 數量 | 比例 |
 |------|------|------|
-| 總網址數 | 580 | 100% |
-| ✅ 有效 | 378 | 65.2% |
-| ❌ 失效 | 189 | 32.6% |
-| 🔄 重複 | 21 | 3.6% |
+| 總網址數 | 8683 | 100% |
+| ✅ 有效 | 533 | 6.1% |
+| ❌ 失效 | 1075 | 12.4% |
+| 🔄 重複 | 7088 | 81.6% |
 
 ## 🧹 清理統計
 
 - **移除空白行**：0 行
-- **移除無網址行**：162 行
+- **移除無網址行**：2767 行
 
-## ✅ 有效網址 (378)
+## ✅ 有效網址 (533)
 
 有效網址已儲存至：`data/source.txt`
 
 ## ❌ 無效網址列表
 
-- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
-- `https://raw.githubusercontent.com/git8477/wexfnw/refs/heads/main/index.js.md5`
-- `https://yydsys.netlify.app/config.json`
 - `https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC`
-- `https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json`
-- `https://bitbucket.org/xduo/cool/raw/main/room.json`
-- `https://d.kstore.dev/download/3376/2026.json`
-- `https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2`
-- `https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/春盈天下.json`
-- `http://fn.gcl.de5.net:5908/gsh950428`
-- `https://ym.wya6.cn/`
-- `https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config`
+- `https://raw.githubusercontent.com/git8477/wexfnw/refs/heads/main/index.js.md5`
+- `https://pastecode.dev/raw/7tvw3n7c/kuzis.json`
+- `https://9xi4o.tk/tvbox.json`
+- `https://w.junce.dpdns.org/fm.gif`
+- `http://xhww.fun/小米`
+- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
+- `http://xn--5mqx81b535a.com/12.苍蓝`
+- `http://影视仓.com/6.少儿频道:`
 - `https://zzzy.shop/tv/`
-- `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`
-- `https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json`
-- `https://www.ls660.com/TV/suoo.json`
-- `https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`
-- `https://fastly.jsdelivr.net/gh/qist/tvbox@master/jsm.json`
-- `https://qixing.myhkw.com/DC.txt`
-- `https://jk.catvod.site/jk/1.json`
-- `https://gitee.com/free-kingdom/dc/raw/main/T4.json`
 - `http://fty.xxooo.cf/tv`
-- `http://feimao.pro`
-- `http://hello.肥猫.net`
+- `http://www.wya6.cn/tv/yc.json`
 - `http://肥猫.net/tv`
-- `http://www.饭太硬.xyz/tv`
-- `http://www.饭太硬.com/tv`
+- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer7.二月红接口:`
+- `https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json`
+- `https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2`
 - `http://肥猫.net/`
-- `https://gitee.com/xxoooo/fan/raw/master/in.bmp`
-- `https://cdn.gitmirror.com/bb/xduo/libs/master/index.json`
+- `http://www.饭太硬.com/tv`
+- `http://cdn.qiaoji8.com/tvbox.json`
+- `https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json`
+- `https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json`
+- `https://tvkj.top/DC/ysc/tvkj/svip.json`
+- `https://chuanshuo.77blog.cn/tv.json`
+- `http://www.饭太硬.xyz/tv`
+- `https://盒子迷.top/春盈天下`
+- `http://miqk.cc/小米/DEMO.json`
+- `http://ok321.top/tv`
+- `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`
+- `https://xhdwc.tk/0`
+- `http://我不是.摸鱼儿.com`
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
 
-- `https://raw.githubusercontent.com/guot55/yg/main/pro.json`
-- `https://raw.githubusercontent.com/guot55/YGBH/main/pro.json`
-- `https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json`
+- `http://www.饭太硬.cc/tv`
+- `http://rihou.cc:88/demo.php`
 - `https://6800.kstore.vip/fish.json`
-- `https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json`
-- `https://9877.kstore.space/AnotherD/api.json`
-- `https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json`
-- `https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json`
-- `https://clun.top/box.json`
-- `https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u`
-- `https://pastebin.com/raw/gtbKvnE1`
-- `https://6492.kstore.space/xnf/xnf.json`
-- `http://hucongrong.web3v.work/风水/fxz/fxz.json`
-- `https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json`
-- `http://pandown.pro/tvbox/tvbox.json`
-- `https://raw.githubusercontent.com/swhtv/111/main/hua.json`
-- `https://raw.githubusercontent.com/swhtv/111/main/hua2.json`
-- `https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json`
-- `https://raw.githubusercontent.com/midsummer0206/zxvideosource/master/zx.json`
-- `https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json`
-- `https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json`
+- `https://9280.kstore.vip/newwex.json`
+- `https://9280.kstore.vip/cat/index.js.md5`
+- `https://9280.kstore.vip/cat/index.js.md5`
+- `http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5`
+- `https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5`
+- `https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5`
+- `http://www.饭太硬.com/tv`
+- `https://www.252035.xyz/z/FongMi.json`
+- `http://肥猫.net/tv`
+- `https://宝盒接口.top`
+- `https://9280.kstore.vip/newwex.json`
+- `https://cnb.cool/fish2018/xs/-/git/raw/main/api.json`
+- `https://9280.kstore.vip/newwex.json`
+- `http://fty.xxooo.cf/tv`
+- `http://肥猫.net/`
+- `http://tvbox.xn--4kq62z5rby2qupq9ub.top/`
+- `http://cdn.qiaoji8.com/tvbox.json`
+- `https://9280.kstore.vip/newwex.json`
+- `http://www.饭太硬.com/tv`
+- `http://www.饭太硬.net/tv`
+- `http://fty.xxooo.cf/tv`
+- `http://我不是.摸鱼儿.top`
+- `http://hb.小虎斑.site:25252/仅供测试`
+- `https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer`
+- `http://tv.nxog.top/m/`
+- `http://肥猫.com`
+- `http://cdn.qiaoji8.com/tvbox.json`
 完整清單請查看：`data/duplicate_urls.txt`
 
 ---
-🕐 更新時間：2026-07-11 08:40:23
+🕐 更新時間：2026-07-11 23:18:15
 
 ✅ 報告由 TVBox URL Checker Pro v4.8 自動生成
