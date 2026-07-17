@@ -125,6 +125,7 @@ https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 http://tv.999888987.xyz
 http://tv.999888123.xyz
 4K接口： http://v-dragon.com.hk/4k/
+4K接口： http://tv.4kbox.top/4k/index.php
 如意接口: https://gitee.com/wynp/ys/raw/master/yc.json
 大佬接口：https://tv.203511.xyz/0821.json
 龙潭音乐：https://d.kstore.dev/download/6651/api.json
@@ -132,6 +133,7 @@ http://tv.999888123.xyz
 小鱼干接口：http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xfnn.json
 小脑斧免费接口：http://cnmb.cc.cd/jk/xnf.json
+影用仓库 多仓：http://tv.weidonglong.com/ysc5.json
 茄子库接口 单仓：https://700sjro44343.vicp.fun/eggp/qzku/tv.json
 小马单线：https://szyyds.cn/tv/x.json
 推荐单仓链接：http://z.qiqiv.cn/123
@@ -163,6 +165,7 @@ https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
 https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
 http://epg.112114.xyz
 聚玩盒子：http://xhztv.top/xhz/
+宝盒接口：http://mzjk.top/禁止贩卖
 宝盒视界：https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json
 一哥接口：http://ficfac.com/ijia/app.json
 PG接口：https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json
@@ -237,6 +240,7 @@ https://www.123865.com/s/sPNbVv-hR7Xv
 https://3043.kstore.space/bhvip/bh/bh.json
 https://7952.kstore.space/JAR/zs.txt
 https://pz.nxpz.xyz/tvbox/nx.json
+宝盒多仓：http://mzjk.top/DC
 【插兜的干货仓库】接口：https://www.lintech.work/标准杯/main.json，密钥 1210key
 真六情人节版➯ https://cccimg.com/down.php/0383887a7ab4acd9d8b356a53e0e212f.json
 防屏蔽接口:https://d.kstore.dev/download/9280/wex.json
@@ -347,6 +351,7 @@ http://byyds.top/w.txt分享君接口
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
 http://drpy.site/js1小雅dr
+https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.jsonxcxc8
 潇洒：https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
 蜂蜜：https://qu.ax/uanw.json <18⁺>
@@ -467,9 +472,11 @@ https://www.yingm.cc/subscribe/dm.json
 https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin
 https://d.kstore.dev/download/3376/mcj.json
 https://musicfreepluginshub.2020818.xyz/plugins.json
+http://mzjk.top/禁止贩卖1
 http://影视仓.com
 https://700sjro44343.vicp.fun/vip/vip/tv.json
 http://kv.zwc365.com/tv.json
+http://zb.gjds.love/公众号搞机大师/gaoji.json
 http://like.肥猫.com/你好
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
@@ -484,6 +491,9 @@ https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json
 https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/Xboxb.json
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
 tuji-2015 - https://ghfast.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json
 kiwifruit13 - https://ghfast.top/https://raw.githubusercontent.com/kiwifruit13/tvbox-free/main/api.json
 蹲街捏蚂蚁 - https://ghfast.top/https://raw.githubusercontent.com/LuckySe7ens/tvbox_config/master/open/tvbox.json
@@ -534,6 +544,7 @@ http://xn--5mqx81b535a.com/
 12.苍蓝:http://xn--6orr3pi6g9uu.top
 https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json
 https://g.33445500.xyz/
+https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 雪乃猫源：https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js
 沐辰：https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js
 国内免翻:https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js
