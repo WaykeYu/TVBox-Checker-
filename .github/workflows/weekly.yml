@@ -21,9 +21,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 安裝 Chrome
+       安裝 Chrome
       - name: Setup Chrome
-        uses: browser-actions/setup-chrome@v1
+        #uses: browser-actions/setup-chrome@v1
 
       - name: Install Python packages
         run: |
@@ -32,11 +32,11 @@ jobs:
           pip install PyGithub selenium webdriver-manager
 
       # 執行下載程式
-      - name: Download latest source
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python auto_downloader.py
+      #- name: Download latest source
+        #env:
+          #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #run: |
+          #python auto_downloader.py
 
       # 執行網址檢查
       - name: Check URLs
