@@ -3,6 +3,7 @@
 不好意思点播：https://clun.top/fun.json
 不好意思点播：https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u
 不好意思点播榴芒电视:http://8.138.7.223/tv.txt
+成人点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json
 不好意思点播：https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt
 https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 https://www.252035.xyz/z/FongMi.json
@@ -500,7 +501,6 @@ https://700sjro44343.vicp.fun/eggp/0615/tv.php
 https://ztha.top/TVBox/GYCK.json
 https://d.kstore.dev/download/12441/dc6.json
 点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
-成人点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json
 开源地址: https://github.com/wwb521/live
 https://ghp.ml1.one/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
 https://ghp.ml1.one/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json
@@ -580,7 +580,6 @@ MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyH
 宝盒应用商店 - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2.json
 宝盒vip专享 - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 或者 https://qist.ugigc.dpdns.org/xiaosa/api.json
-https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt
 海盗湾：https://piratebayproxy.net/zh/
 老王磁力：https://laowangun.top/
 SkrBTL：https://skrbtqc.top/
