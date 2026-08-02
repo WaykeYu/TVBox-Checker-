@@ -3,6 +3,7 @@
 不好意思点播：https://clun.top/fun.json
 不好意思点播：https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u
 不好意思点播榴芒电视:http://8.138.7.223/tv.txt
+不好意思点播：https://raw.githubusercontent.com/wwb521/live/main/video.json
 不好意思点播：https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt
 不好意思点播:https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json
 https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
@@ -79,6 +80,7 @@ https://cnb.cool/fish2018/xs/-/git/raw/main/api.json
 王二小http://tvbox.王二小放牛娃.top
 南风https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 香雅情https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+http://我不是.摸鱼儿.com
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json 看电视直播秒开
 https://agit.ai/ddx/TVBox/raw/branch/master/t4.js
@@ -245,19 +247,24 @@ https://live.hacks.tools/tv/iptv4.txt
 http://rihou.cc:555/gggg.nzk
 https://乐哥.xyz/zjdhk.json
 http://wuguangle.serv00.net/zjdhk.json
+https://www.lintech.work/%E8%B6%85%E5%A4%A7%E6%9D%AF/main.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/Xboxb.json
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 https://www.123865.com/s/sPNbVv-hR7Xv
 https://3043.kstore.space/bhvip/bh/bh.json
 https://7952.kstore.space/JAR/zs.txt
 https://pz.nxpz.xyz/tvbox/nx.json
+【插兜的干货仓库】接口：https://www.lintech.work/标准杯/main.json，密钥 1210key
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json
 真六情人节版➯ https://cccimg.com/down.php/0383887a7ab4acd9d8b356a53e0e212f.json
 防屏蔽接口:https://d.kstore.dev/download/9280/wex.json
+运输车： https://weixine.net/ysc.json
 9，慕雨直播接口：https://4key.cn/FP
 12，看电视呗直播接口：http://8.138.7.223/live.txt
+https://www.lintech.work/超大杯/main.json
+https://www.lintech.work/标准杯/main.json
 http://bobohome.ignorelist.com:20247/潇洒/
 http://bobohome.ignorelist.com:20247/PG/
 http://bobohome.ignorelist.com:20247/真心/
@@ -267,6 +274,7 @@ https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/ma
 https://pan.quark.cn/s/aea12557d1ce
 https://pan.quark.cn/s/1964a2f15e9e
 ™菜妮丝源：https://tv.菜妮丝.top/
+™摸鱼儿源：https://www.摸鱼儿.com/
 ™龙伊专线：https://xn--qoqw77q.top/
 https://d.kstore.dev/download/7336/yhykeji.json
 https://ghfast.top/https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/json/config.json
@@ -394,6 +402,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/j
 https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json 香雅情线
 https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json 免软
 http://byyds.top/w.txt分享君接口
+https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
 http://drpy.site/js1小雅dr
 荷城茶秀(备用) - https://ghp.ci/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
@@ -454,6 +463,7 @@ https://github.ednovas.xyz/https://raw.githubusercontent.com/xmbjm/ck/main/ck.js
 宝盒APP：https://jihulab.com/mengzhu2/fmjk/-/raw/main/FMJK.json
 OK猫开发：http://navo.top/Uba2ii
 宝盒APP接口：http://navo.top/qMjeUr
+1. https://weixine.net/api.json
 https://raw.liucn.cc/box/dm.txt
 https://gitlab.com/duomv/apps/-/raw/main/fast.json
 https://gitlab.com/duomv/apps/-/raw/main/duo.json
@@ -557,6 +567,8 @@ saulxxx_jsm - https://github.moeyy.xyz/https://raw.githubusercontent.com/saulxxx
 拾光乐趣屋(备用) - https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/svip.json
 ltxxjs_jsxj - https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jsxj.json
 ywg228_ygbhbox - https://github.moeyy.xyz/https://raw.githubusercontent.com/ywg228/tvbox/main/ygbhbox.json
+雷蒙影视 - https://cdn.pgl.dpdns.org/s/adHAdEXy
+雷蒙影视 - https://cdn.pgl.dpdns.org/s/gQAkzbiL
 雷蒙影视 - https://cdn.pgl.dpdns.org/s/i6s8pajD
 雷蒙影视独家【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
 雷蒙影视JS专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
@@ -578,6 +590,7 @@ BT1207：https://bt1207uc.top/
 http://肥猫.live/
 http://小白.love
 https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master
+https://cf.weixine.net/api.json
 接口单线：https://yubox.xyz/xc.json
 多仓：https://yubox.xyz/dc.json
 https://live.iptv365.org

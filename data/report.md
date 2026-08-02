@@ -4,54 +4,42 @@
 
 | 項目 | 數量 | 比例 |
 |------|------|------|
-| 總網址數 | 655 | 100% |
-| ✅ 有效 | 630 | 96.2% |
-| ❌ 失效 | 24 | 3.7% |
+| 總網址數 | 631 | 100% |
+| ✅ 有效 | 618 | 97.9% |
+| ❌ 失效 | 12 | 1.9% |
 | 🔄 重複 | 1 | 0.2% |
 
 ## 🧹 清理統計
 
 - **移除空白行**：0 行
-- **移除無網址/重複行**：8 行
+- **移除無網址/重複行**：6 行
 
-## ✅ 有效網址 (630)
+## ✅ 有效網址 (618)
 
 有效網址已儲存至：`data/source.txt`
 
 ## ❌ 無效網址列表
 
-- `http://影视仓.com/6.少儿频道:`
-- `http://xn--5mqx81b535a.com/12.苍蓝`
-- `http://肥猫.com`
-- `http://hb.小虎斑.site:25252/仅供测试`
-- `http://hello.肥猫.com`
-- `https://wds.ecsxs.com/230864.json`
-- `http://肥猫.com/`
-- `http://hb.小虎斑.site:25252/仅供测试/`
-- `https://6492.kstore.space/xnf/xnf.json`
-- `https://wds.ecsxs.com/213821.json`
-- `https://wds.ecsxs.com/212757.json`
-- `https://wds.ecsxs.com/213679.json`
-- `https://wds.ecsxs.com/213013.json`
-- `https://wds.ecsxs.com/216537.json`
-- `https://wds.ecsxs.com/213313.json`
-- `http://uz.xn--z7x900a.com/uz.json`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py`
-- `https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.jsonxcxc8`
-- `https://wds.ecsxs.com/231978.json`
-- `http://hello.肥猫.com/`
-- `https://蜗牛.top/tv.json`
-- `https://bing.img.run/uhd.php`
-- `http://like.肥猫.com/你好`
+- `http://我不是.摸鱼儿.com`
+- `https://www.lintech.work/%E8%B6%85%E5%A4%A7%E6%9D%AF/main.json`
+- `https://www.lintech.work/标准杯/main.json，密钥`
+- `https://weixine.net/ysc.json`
+- `https://www.lintech.work/超大杯/main.json`
+- `https://www.lintech.work/标准杯/main.json`
+- `https://www.摸鱼儿.com/`
+- `https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口`
+- `https://weixine.net/api.json`
+- `https://cdn.pgl.dpdns.org/s/adHAdEXy`
+- `https://cdn.pgl.dpdns.org/s/gQAkzbiL`
+- `https://cf.weixine.net/api.json`
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
 
-- `http://8.138.7.223/tv.txt`
+- `https://raw.githubusercontent.com/wwb521/live/main/video.json`
 完整清單請查看：`data/duplicate_urls.txt`
 
 ---
-🕐 更新時間：2026-07-26 02:15:16
+🕐 更新時間：2026-08-02 02:10:09
 
 ✅ 報告由 TVBox URL Checker Pro v4.9 自動生成
