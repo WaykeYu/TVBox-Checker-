@@ -36,16 +36,20 @@ https://raw.githubusercontent.com/g774320776-alt/tvbox-py/refs/heads/main/sub.js
 肥猫接口：http://肥猫.live
 VOX接口：http://rihou.cc:88/demo.php
 二小接口：http://tvbox.王二小放牛娃.top/
+阅读书源：http://yuedu.miaogongzi.net/gx.html
 http://www.饭太硬.net/tvhttp://fty.xxooo.cf/tv
 http://fty.888484.xyz/tv
 http://fty.333232.xyz/tv江苏郑州专用:
 http://xhztv.top/4k.json
 http://home.jundie.top:81/top98.json
 https://www.iyouhun.com/tv/wex15.catbox
+接口：https://catbox.n13.club/jk/t4.json
+其他可用接口：https://jk.catvod.site/jk/1.json
 https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json
 https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json
 https://g.33445500.xyz/
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 牛二猫源：http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 雪乃猫源：https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5
 沐辰：https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
@@ -357,6 +361,7 @@ s14685_favnet - https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/m
 s14685_net(备用) - https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/net.json
 s14685_tb - https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tb.json
 s14685_tbgh(备用) - https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json
+（8） https://api.btstu.cn/sjbz/?lx=dongman
 one：https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 潇洒：https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 老刘备：https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json
@@ -472,6 +477,7 @@ X影??:https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json
 采集之王：https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json
 宝盒没宝：http://ygbhbox.3vfree.club/pg/jsm.json
 胜寒：https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json
+[ ] 范明明：https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 [ ] IPV4聚合：https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 [ ] IPV6聚合：https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 链接：https://drive.uc.cn/s/38569c7d2bab4?public=1
@@ -667,8 +673,31 @@ https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=i
 多线路https://xn--teet-rp5imh.v.nxog.top/api.php?id=2
 多仓：https://xn--yaay-rp5imh.v.nxog.top/api.php?id=1
 运输车： https://weixine.net/ysc.json
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/247影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_次元.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_黑料.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/九龙趣看.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/可达影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/娱乐大师.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/皮皮虾影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/素白白.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/酷云.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/金牌.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/黑料.py
 https://tv.nxog.top/404/?&AbA?&W9e
 ™欧歌线路：https://欧歌.v.nxog.top/
 ™摸鱼儿源：https://www.摸鱼儿.com/
