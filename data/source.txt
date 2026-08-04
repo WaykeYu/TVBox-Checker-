@@ -10,6 +10,7 @@
 不好意思点播:https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json
 不好意思点播:https://ghfast.top/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt
 不好意思点播:https://gh-proxy.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt
+不好意思点播:https://ghp.ci/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
 https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 https://www.252035.xyz/z/FongMi.json
 http://摸鱼儿.cc
@@ -378,7 +379,7 @@ https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sour
 https://d.kstore.dev/download/4684/%E5%86%AC%E6%97%A5%E6%9A%96%E9%98%B32025.json
 http://xmbjm.fh4u.org/ck.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json
-https://ghp.ci/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
+
 荷城茶秀(备用) - https://ghp.ci/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json (秒播)
 宝盒vip专享 - https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json (秒播)
 https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/box.json
