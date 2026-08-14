@@ -12,6 +12,10 @@
 不好意思点播:https://gh-proxy.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt
 不好意思点播:https://ghp.ci/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
 不好意思点播:https://ghp.ml1.one/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json
+無界RPO:https://www.xn--rgv465a.top/pro.json
+無界LITE:https://www.xn--rgv465a.top/lite.json
+無界多倉:https://www.xn--rgv465a.top/fine.json
+無界ZYPLAYER:https://www.xn--rgv465a.top/zyplayer.json
 https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 https://www.252035.xyz/z/FongMi.json
 http://摸鱼儿.cc
