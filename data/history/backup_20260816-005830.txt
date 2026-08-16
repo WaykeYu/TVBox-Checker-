@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/g774320776-alt/tvbox-py/refs/heads/main/sub.js
 23. https://raw.liucn.cc/box/m.json
 25. https://play.iptv365.org/小米/api.json
 肥猫接口：http://肥猫.live
+VOX接口：http://rihou.cc:88/demo.php
 二小接口：http://tvbox.王二小放牛娃.top/
 http://www.饭太硬.net/tvhttp://fty.xxooo.cf/tv
 http://fty.888484.xyz/tv
@@ -96,6 +97,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlineru
 https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json 看电视直播秒开
 https://agit.ai/ddx/TVBox/raw/branch/master/t4.js
 长期多仓接口：https://www.ls660.com/TV/iptv.txt
+https://700sjro44343.vicp.fun/eggp/0415/tv.php
 https://gitee.com/hulanlu/04/raw/master/lanlu.json
 https://www.cttv.vip/ys/json/ctys.json
 https://11405.kstore.space/xiaye/1080.json
@@ -245,6 +247,7 @@ https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
 https://live.hacks.tools/tv/iptv4.txt
+http://rihou.cc:555/gggg.nzk
 https://乐哥.xyz/zjdhk.json
 http://wuguangle.serv00.net/zjdhk.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/Xboxb.json
@@ -258,11 +261,14 @@ https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json
 真六情人节版➯ https://cccimg.com/down.php/0383887a7ab4acd9d8b356a53e0e212f.json
 防屏蔽接口:https://d.kstore.dev/download/9280/wex.json
+9，慕雨直播接口：https://4key.cn/FP
 12，看电视呗直播接口：http://8.138.7.223/live.txt
 http://bobohome.ignorelist.com:20247/潇洒/
 http://bobohome.ignorelist.com:20247/PG/
 http://bobohome.ignorelist.com:20247/真心/
 http://bobohome.ignorelist.com:20247/
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_bilibili.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/五五短剧.py
 https://pan.quark.cn/s/aea12557d1ce
 https://pan.quark.cn/s/1964a2f15e9e
 ™菜妮丝源：https://tv.菜妮丝.top/
@@ -482,6 +488,7 @@ https://pz.nxpz.xyz/tgyyc/api.json
 https://d1y.github.io/kitty/vod.json
 https://d1y.github.io/kitty/x.json
 http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg/jsm2.json
+https://700sjro44343.vicp.fun/eggp/0615/tv.php
 https://ztha.top/TVBox/GYCK.json
 https://d.kstore.dev/download/12441/dc6.json
 点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
@@ -520,6 +527,7 @@ shan790903_ShanZy - https://github.moeyy.xyz/https://raw.githubusercontent.com/s
 shan790903_ShanZy714(备用) - https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/ShanTV/ShanZy714.json
 Grovin720_G - https://github.moeyy.xyz/https://raw.githubusercontent.com/Grovin720/TV/master/G.json
 drzorm_0 - https://github.moeyy.xyz/https://raw.githubusercontent.com/drzorm/tvbox/main/0.json
+https://700sjro44343.vicp.fun/240731/one/
 shan790903-OthTV - https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/OthTV.json
 ne7359_dianshi - https://github.moeyy.xyz/https://raw.githubusercontent.com/ne7359/tvurl/main/dianshi.json
 qist_js - https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/js.json
@@ -582,6 +590,7 @@ https://gitlab.com/dokiss/tvbox/-/raw//%E5%9C%A5%E5%BF%88.json
 https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin
 https://d.kstore.dev/download/3376/mcj.json
 https://musicfreepluginshub.2020818.xyz/plugins.json
+http://影视仓.com
 https://700sjro44343.vicp.fun/vip/vip/tv.json
 http://kv.zwc365.com/tv.json
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
@@ -655,6 +664,8 @@ https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=i
 多线路https://xn--teet-rp5imh.v.nxog.top/api.php?id=2
 多仓：https://xn--yaay-rp5imh.v.nxog.top/api.php?id=1
 运输车： https://weixine.net/ysc.json
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/可达影视.py
 https://tv.nxog.top/404/?&AbA?&W9e
 ™欧歌线路：https://欧歌.v.nxog.top/
 ™摸鱼儿源：https://www.摸鱼儿.com/
@@ -662,6 +673,7 @@ https://tv.nxog.top/404/?&AbA?&W9e
 https://xn--xggx-rp5imh.v.nxog.top/apitv.php?id=3
 tv家庭线路1 - https://tv.nxog.top/
 肥猫宝贝 - , https://ghfast.top/https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json
+（9） http://api.btstu.cn/sjbz/?lx=meizi
 （10） http://api.btstu.cn/sjbz/?lx=suiji
 欧哥：https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
