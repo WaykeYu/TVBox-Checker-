@@ -214,6 +214,7 @@ https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
 ONE单线：https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 http://hucongrong.web3v.work/风水/fxz/fxz.json
 https://play.iptv365.org/tvbox.txt
+https://d.kstore.dev/download/4516/4516.json
 另: https://qist.ugigc.dpdns.org/jsm.json
 https://cccimg.com/down.php/33c22b45fa8db8a828af2077b92b8cb7.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/dc.json
@@ -242,6 +243,7 @@ http://west.shaonv.me/tvbox/live.txt
 http://api.lmxsd.cn/2485.txt
 https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
 https://live.hacks.tools/tv/iptv4.txt
 https://乐哥.xyz/zjdhk.json
 http://wuguangle.serv00.net/zjdhk.json
@@ -262,6 +264,7 @@ http://bobohome.ignorelist.com:20247/PG/
 http://bobohome.ignorelist.com:20247/真心/
 http://bobohome.ignorelist.com:20247/
 https://pan.quark.cn/s/aea12557d1ce
+https://pan.quark.cn/s/1964a2f15e9e
 ™菜妮丝源：https://tv.菜妮丝.top/
 ™龙伊专线：https://xn--qoqw77q.top/
 https://d.kstore.dev/download/7336/yhykeji.json
@@ -464,6 +467,7 @@ X影??:https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json
 [ ] IPV4聚合：https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 [ ] IPV6聚合：https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 链接：https://drive.uc.cn/s/38569c7d2bab4?public=1
+链接：https://pan.quark.cn/s/973def15554b
 业余打发多仓：https://gh-proxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
 https://gh.jasonzeng.dev/
 https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xbrthx.json
