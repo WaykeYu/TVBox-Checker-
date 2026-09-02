@@ -69,6 +69,7 @@ https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/hea
 https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js.md5
 https://ghfast.top/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
 https://9280.kstore.vip/cat/index.js.md5
+http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 https://宝盒接口.top
@@ -129,6 +130,8 @@ dxawi: https://dxawi.github.io/0/0.json
 牛二(1数字xyz) http://tv.999888987.xyz/
 牛二(2数字xyz) http://tv.999888123.xyz/
 牛二(防屏蔽) https://9280.kstore.vip/wex.json
+http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
+http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json
 https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json
@@ -595,6 +598,7 @@ https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/conf
 http://www.英格里希嗷呜.top/tv
 https://9280.kstore.vip/newwex.json
 https://6800.Kstore.vip/fish.json
+https://9280.kstore.vip/cat/index.js.md5
 http://我不是.摸鱼儿.com
 https://wds.ecsxs.com/230864.json
 牛二(防屏蔽) https://9280.kstore.space/wex.json
@@ -609,6 +613,7 @@ https://wds.ecsxs.com/216537.json
 https://wds.ecsxs.com/213313.json
 ™摸鱼儿源：https://www.摸鱼儿.com/
 肥猫宝贝 - , https://ghfast.top/https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json
+https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 爱尚多仓：https://wds.ecsxs.com/231978.json
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 蜗牛影视(备用) - https://蜗牛.top/tv.json
@@ -619,8 +624,10 @@ https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
 星辰（教育） :https://fmbox.cc/
 5，YANG-1989直播接口：https://tv.iill.top/m3u/Gather
 ™星辰线路：https://fmbox.cc
+http://byyds.top/w.txt分享君接口
 http://js.134584.xyz/json/pp87.json白嫖
 https://www.lianyingtv.com/fast/fast
+[ ] 范明明：https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 https://www.lige.fit/tvbox
 星微Vip线：https://7337.kstore.vip/xw/测试勿传
 嗨哥魔改：https://api.hgyx.vip/hgyx.json
@@ -664,6 +671,7 @@ http://ai.xn--4kq62z5rby2qupq9ub.top/
 http://new.王二小放牛娃.top/
 http://new.999888123.xyz/
 http://new.999888987.xyz/
+备二：http://肥猫.net
 http://ysys.lic10.cn/ys/
 https://jk.catvod.site/
 http://210.245.166.68:1188/tvbox/cun/chun.bmp
@@ -673,6 +681,7 @@ https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/hea
 https://raw.githubusercontent.com/guot55/yg/main/box原.json
 https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json
 https://raw.githubusercontent.com/zheng197600/tvbox/main/0820.json
+http://tvbox.home.kg/
 http://47.120.41.246:8025/vip/vip/tv.json
 https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b1.json
 https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json
@@ -701,6 +710,7 @@ https://www.ls660.com/TV/fantanyingtv.json
 http://bobohome.ignorelist.com:20247/🐅嗷呜/
 https://cr.5987768.xyz/晨瑞黑科/movie.php
 🔵肥猫线路：http://肥猫.com/
+肥猫：http://肥猫.net/
 http://肥猫.com
 肥猫http://hello.肥猫.com
 http://hb.小虎斑.site:25252/仅供测试/
