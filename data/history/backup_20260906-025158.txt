@@ -608,6 +608,7 @@ https://wds.ecsxs.com/213313.json
 爱尚多仓：https://wds.ecsxs.com/231978.json
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 蜗牛影视(备用) - https://蜗牛.top/tv.json
+阅读书源：http://yuedu.miaogongzi.net/gx.html
 https://www.iyouhun.com/tv/wex15.catbox接口：https://catbox.n13.club/jk/t4.json其他可用接口：https://jk.catvod.site/jk/1.jsonhttps://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.jsonhttps://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.jsonhttps://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.jsonhttps://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 http://gg.gg/cccvvv
 https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
@@ -646,6 +647,7 @@ https://700sjro44343.vicp.fun/eggp/0415/tv.php
 https://d.kstore.dev/download/4516/4516.json
 https://ddzb.fun/dgmusic/api.json
 https://pan.quark.cn/s/1964a2f15e9e
+（10） http://api.btstu.cn/sjbz/?lx=suiji
 链接：https://pan.quark.cn/s/973def15554b
 https://700sjro44343.vicp.fun/eggp/0615/tv.php
 https://700sjro44343.vicp.fun/240731/one/
@@ -712,6 +714,7 @@ http://byyds.top/w.txt分享君接口
 https://d.kstore.dev/download/12441/dc6.json
 备用1：http://hello.肥猫.com/
 http://like.肥猫.com/你好
+③http://王二小放牛娃牛逼.999888987.xyz
 4K接口： http://tv.4kbox.top/4k/index.php
 小脑斧免费接口：http://cnmb.cc.cd/jk/xnf.json
 菠萝库：https://700sjro44343.vicp.fun/eggp/1015/tv.json
