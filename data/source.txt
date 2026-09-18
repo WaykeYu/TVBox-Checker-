@@ -597,11 +597,18 @@ https://wds.ecsxs.com/213313.json
 爱尚多仓：https://wds.ecsxs.com/231978.json
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 蜗牛影视(备用) - https://蜗牛.top/tv.json
-https://www.iyouhun.com/tv/wex15.catbox接口：https://catbox.n13.club/jk/t4.json其他可用接口：https://jk.catvod.site/jk/1.jsonhttps://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.jsonhttps://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.jsonhttps://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.jsonhttps://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
+https://www.iyouhun.com/tv/wex15.catbox
+接口：https://catbox.n13.club/jk/t4.json
+其他可用接口：https://jk.catvod.site/jk/1.json
+https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json
+https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json
+https://g.33445500.xyz/
+https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 http://gg.gg/cccvvv
 https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
-5，YANG-1989直播接口：https://tv.iill.top/m3u/Gather
-http://js.134584.xyz/json/pp87.json白嫖
+YANG-1989直播接口：https://tv.iill.top/m3u/Gather
+白嫖:http://js.134584.xyz/json/pp87.json
 https://www.lianyingtv.com/fast/fast
 https://www.lige.fit/tvbox
 星微Vip线：https://7337.kstore.vip/xw/测试勿传
@@ -626,14 +633,18 @@ YY轮播接口https://wget.la/
 https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 https://9763.kstore.vip/aowu.json
 http://www.英格里希嗷呜.top
-http://www.饭太硬.cc/tvhttp://www.饭太硬.net/tvhttp://fty.xxooo.cf/tvhttp://www.饭太硬.art/tvhttp://fty.888484.xyz/tvhttp://fty.333232.xyz/tv
+http://www.饭太硬.cc/tv
+http://www.饭太硬.net/tv
+http://fty.xxooo.cf/tv
+http://www.饭太硬.art/tv
+http://fty.888484.xyz/tv
+http://fty.333232.xyz/tv
 https://700sjro44343.vicp.fun/eggp/0415/tv.php
 https://ddzb.fun/dgmusic/api.json
 https://pan.quark.cn/s/1964a2f15e9e
 链接：https://pan.quark.cn/s/973def15554b
 https://700sjro44343.vicp.fun/eggp/0615/tv.php
 https://700sjro44343.vicp.fun/240731/one/
-
 安卓三代接口 https://9280.kstore.vip/aiwex.json
 https://9280.kstore.space/aiwex.json
 http://ai.xn--4kq62z5rby2qupq9ub.top/
