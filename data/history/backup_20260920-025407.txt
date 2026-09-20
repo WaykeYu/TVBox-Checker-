@@ -597,9 +597,18 @@ https://wds.ecsxs.com/213313.json
 爱尚多仓：https://wds.ecsxs.com/231978.json
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 蜗牛影视(备用) - https://蜗牛.top/tv.json
+https://www.iyouhun.com/tv/wex15.catbox
+接口：https://catbox.n13.club/jk/t4.json
+其他可用接口：https://jk.catvod.site/jk/1.json
+https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json
+https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json
+https://g.33445500.xyz/
+https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+https://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 http://gg.gg/cccvvv
 https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
 YANG-1989直播接口：https://tv.iill.top/m3u/Gather
+白嫖:http://js.134584.xyz/json/pp87.json
 https://www.lianyingtv.com/fast/fast
 https://www.lige.fit/tvbox
 星微Vip线：https://7337.kstore.vip/xw/测试勿传
@@ -613,6 +622,7 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/
 clun线路https://clun.top/box.json
 时光线路https://jiekou.netlify.app/svip.json
 东篱线路：https://chigua.eu.org
+后日接口http://rihou.cc:555/gggg.nzk
 DG接口http://1.94.31.214/live/live9/dgtv.txt
 电视多接口https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 易发接口http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
@@ -623,6 +633,12 @@ YY轮播接口https://wget.la/
 https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 https://9763.kstore.vip/aowu.json
 http://www.英格里希嗷呜.top
+http://www.饭太硬.cc/tv
+http://www.饭太硬.net/tv
+http://fty.xxooo.cf/tv
+http://www.饭太硬.art/tv
+http://fty.888484.xyz/tv
+http://fty.333232.xyz/tv
 https://700sjro44343.vicp.fun/eggp/0415/tv.php
 https://ddzb.fun/dgmusic/api.json
 https://pan.quark.cn/s/1964a2f15e9e
@@ -679,6 +695,7 @@ https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/ma
 磁力炮：https://www.cilipao.cc/
 https://www.cttv.vip/ys/json/ctys.json
 DS9接口https://d.kstore.dev/download/12441/ds9.txt
+（8） https://api.btstu.cn/sjbz/?lx=dongman
 http://byyds.top/w.txt分享君接口
 https://d.kstore.dev/download/12441/dc6.json
 小脑斧免费接口：http://cnmb.cc.cd/jk/xnf.json
@@ -716,6 +733,7 @@ http://cccccccoccccccc.ccccocccc.cc/uploads/%E7%AB%A5%E5%BF%83%E6%96%B0%E5%BD%B1
 小草磁力：https://xccl98.xyz/
 https://cf.weixine.net/api.json
 宝盒备用:https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json
+D佬线路:http://rihou.cc:555/nzk/nzk0722.json
 分享在线:http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json
 http://zhangqun1818.serv00.net/zq/api.json
 多多在线:https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json
