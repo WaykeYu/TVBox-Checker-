@@ -3,6 +3,7 @@
 不好意思点播：https://clun.top/fun.json
 不好意思点播：https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u
 不好意思点播榴芒电视:http://8.138.7.223/tv.txt
+不好意思点播：https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt
 不好意思点播:https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json
 不好意思点播:https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json
 不好意思点播:https://hub.gitmirror.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json
@@ -138,6 +139,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.jso
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xfnn.json
 影用仓库 多仓：http://tv.weidonglong.com/ysc5.json
 茄子库接口 单仓：https://700sjro44343.vicp.fun/eggp/qzku/tv.json
+天微精选单仓：http://qxyc.cc/自用测试
 小马单线：https://szyyds.cn/tv/x.json
 https://hub.gitmirror.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
 推荐单仓链接：http://z.qiqiv.cn/123
@@ -201,6 +203,7 @@ https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json
 影视仓Box：https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json
 https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json
 https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/drpys/jsm.json
+https://gh.jasonzeng.dev/https://raw.githubuser
 （1）饭太硬：http://www.饭太硬.top/tv/
 （5）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 （13）电视（自用）： https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json
@@ -428,6 +431,7 @@ X影??:https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json
 [ ] IPV6聚合：https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 链接：https://drive.uc.cn/s/38569c7d2bab4?public=1
 业余打发多仓：https://gh-proxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+https://gh.jasonzeng.dev/
 https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/xbrthx.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json
 http://枫斗.top/tv/fengzi
@@ -724,6 +728,7 @@ http://xn--218-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=in
 http://xn--8lo-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌8lo
 http://影视仓.com
 http://vip.nxog.top/
+https://www.moil.cc/10.html
 3☞https://clun.top/jsm.json（点播+直播)
 6☞https://clun.top/box.json（点播+直播)
 7☞https://play.iptv365.org/天天开心/api.json（点播+直播)
@@ -761,4 +766,9 @@ zzz1 https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 http://www.饭太硬.cc/tvhttp://www.饭太硬.net/tvhttp://fty.xxooo.cf/tvhttp://www.饭太硬.art/tvhttp://fty.888484.xyz/tvhttp://fty.333232.xyz/tv
 https://www.iyouhun.com/tv/wex15.catbox接口：https://catbox.n13.club/jk/t4.json其他可用接口：https://jk.catvod.site/jk/1.jsonhttps://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.jsonhttps://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.jsonhttps://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.jsonhttps://8.163.122.228/gy/%E5%85%AC%E7%9B%8A/V3m.json
 绿茶影院：http://550.3vcn.work/cbh.json
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/五五短剧.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/可达影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
 宝盒没宝：http://ygbhbox.3vfree.club/pg/jsm.json
