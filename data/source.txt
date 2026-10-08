@@ -16,6 +16,12 @@
 不好意思点播：https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/黑料.py
 不好意思点播蜂蜜<18⁺>：https://qu.ax/uanw.json
 不好意思点海阔菠菜源:https://github.com/zhujiejie/LunaTV-config/blob/main/LunaTV-config.json
+短剧: https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
+🔥爱在指尖|短剧🔥 - https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
+MyHomeTV_短剧 - https://ghfast.top/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
+短剧线路https://play.iptv365.org/短剧频道/api.json
+MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
+🔥爱在指尖|短剧🔥 - https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
 無界RPO:https://www.xn--rgv465a.top/pro.json
 無界LITE:https://www.xn--rgv465a.top/lite.json
 無界多倉:https://www.xn--rgv465a.top/fine.json
@@ -128,7 +134,7 @@ dxawi: https://dxawi.github.io/0/0.json
 香雅情: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 宝盒VIP: https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 分享: https://raw.githubusercontent.com/maoystv/6/main/000.json
-短剧: https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
+
 东篱线路: https://raw.githubusercontent.com/chitue/dongliTV/main/api.json
 游魂多仓: https://www.iyouhun.com/tv/dc
 游魂多仓（备）: https://www.iyouhun.com/tv/yh
@@ -304,8 +310,7 @@ jymyong_jsm - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyo
 jymyong_xiaomi - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xiaomi.json
 jymyong_春盈天下 - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/春盈天下.json
 jymyong_testmzjk - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/testmzjk.json
-🔥爱在指尖|短剧🔥 - https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
-MyHomeTV_短剧 - https://ghfast.top/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
+
 abc99571875_360ys - https://ghfast.top/https://raw.githubusercontent.com/abc99571875/tvboxqq/master/360ys/api.json
 https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
@@ -456,7 +461,7 @@ https://ghp.ml1.one/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/
 独家http://ficfac.com/tv/box.json
 残月线路https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
 雷蒙线路https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json
-短剧线路https://play.iptv365.org/短剧频道/api.json
+
 TVBOX软件：百度云：https://pan.baidu.com/s/1RlYqlAzjDRQKBJAY7n8V_g?pwd=zone 提取码:zone UC盘链接：https://drive.uc.cn/s/9b06cfa319864?public=1 夸克网盘：https://pan.quark.cn/s/2cf9f8494180
 https://chuxinya.top/f/YvvLcA/%E8%A5%BF%E5%B2%B3TV.txt
 https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -517,8 +522,7 @@ ywg228_ygbhbox - https://github.moeyy.xyz/https://raw.githubusercontent.com/ywg2
 雷蒙影视JS专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 雷蒙影视VOD专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 雷蒙影视网盘专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
-MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
-🔥爱在指尖|短剧🔥 - https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
+
 动漫 - https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json
 宝盒全家桶APK(下载) - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/market.json
 宝盒应用商店 - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2.json
