@@ -13,7 +13,6 @@
 不好意思点播:https://ghp.ml1.one/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json
 不好意思点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json
 不好意思点播：https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json
-不好意思点播：https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/黑料.py
 不好意思点播蜂蜜<18⁺>：https://qu.ax/uanw.json
 不好意思点海阔菠菜源:https://github.com/zhujiejie/LunaTV-config/blob/main/LunaTV-config.json
 短剧: https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
@@ -134,7 +133,6 @@ dxawi: https://dxawi.github.io/0/0.json
 香雅情: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 宝盒VIP: https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 分享: https://raw.githubusercontent.com/maoystv/6/main/000.json
-
 东篱线路: https://raw.githubusercontent.com/chitue/dongliTV/main/api.json
 游魂多仓: https://www.iyouhun.com/tv/dc
 游魂多仓（备）: https://www.iyouhun.com/tv/yh
@@ -204,7 +202,6 @@ PG接口：https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox
 夏夏接口：https://11405.kstore.space/xiaye/qk4k.json
 花花公子：https://d.kstore.dev/download/12020/t4.json
 高天接口：https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json
-星河4K：http://116.196.116.76/tv
 小哥哥：http://47.96.82.41:5188
 摸鱼UZ影视：http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
@@ -310,7 +307,6 @@ jymyong_jsm - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyo
 jymyong_xiaomi - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xiaomi.json
 jymyong_春盈天下 - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/春盈天下.json
 jymyong_testmzjk - https://ghfast.top/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/testmzjk.json
-
 abc99571875_360ys - https://ghfast.top/https://raw.githubusercontent.com/abc99571875/tvboxqq/master/360ys/api.json
 https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
@@ -461,7 +457,6 @@ https://ghp.ml1.one/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/
 独家http://ficfac.com/tv/box.json
 残月线路https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
 雷蒙线路https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json
-
 TVBOX软件：百度云：https://pan.baidu.com/s/1RlYqlAzjDRQKBJAY7n8V_g?pwd=zone 提取码:zone UC盘链接：https://drive.uc.cn/s/9b06cfa319864?public=1 夸克网盘：https://pan.quark.cn/s/2cf9f8494180
 https://chuxinya.top/f/YvvLcA/%E8%A5%BF%E5%B2%B3TV.txt
 https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -522,7 +517,6 @@ ywg228_ygbhbox - https://github.moeyy.xyz/https://raw.githubusercontent.com/ywg2
 雷蒙影视JS专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 雷蒙影视VOD专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 雷蒙影视网盘专线【P6】 - https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
-
 动漫 - https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json
 宝盒全家桶APK(下载) - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/market.json
 宝盒应用商店 - https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2.json
@@ -586,7 +580,6 @@ http://gg.gg/cccvvv
 https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
 YANG-1989直播接口：https://tv.iill.top/m3u/Gather
 https://www.lianyingtv.com/fast/fast
-https://www.lige.fit/tvbox
 星微Vip线：https://7337.kstore.vip/xw/测试勿传
 嗨哥魔改：https://api.hgyx.vip/hgyx.json
 香雅情线https://play.iptv365.org/香雅情/api.json
@@ -644,13 +637,9 @@ https://www.ls660.com/TV/fantanyingtv.json
 http://bobohome.ignorelist.com:20247/🐅嗷呜/
 https://cr.5987768.xyz/晨瑞黑科/movie.php
 http://hb.小虎斑.site:25252/仅供测试/
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/素白白.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/视觉.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/酷云.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/金牌.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
 磁力炮：https://www.cilipao.cc/
 https://www.cttv.vip/ys/json/ctys.json
 DS9接口https://d.kstore.dev/download/12441/ds9.txt
