@@ -21,6 +21,9 @@ MyHomeTV_短剧 - https://ghfast.top/https://raw.githubusercontent.com/MyHomeTV/
 短剧线路https://play.iptv365.org/短剧频道/api.json
 MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
 🔥爱在指尖|短剧🔥 - https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
+🟡 短剧接口1：http://74.120.175.78/JK/XYQTVBox/dj.json
+🟢 短剧接口2：http://box.ufuzi.com/tv/qq/短剧频道/api.json
+🔴 剪影接口：https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json
 無界RPO:https://www.xn--rgv465a.top/pro.json
 無界LITE:https://www.xn--rgv465a.top/lite.json
 無界多倉:https://www.xn--rgv465a.top/fine.json
