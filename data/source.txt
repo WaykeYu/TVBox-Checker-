@@ -30,18 +30,12 @@ MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyH
 無界LITE:https://www.xn--rgv465a.top/lite.json
 無界多倉:https://www.xn--rgv465a.top/fine.json
 無界ZYPLAYER:https://www.xn--rgv465a.top/zyplayer.json
-https://xhdwc.tk/0
-https://源享家.ml/23424
-https://ju.binghe.ga/4.txt
-http://www.dmtv.ml/mao/single.json
 https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json
 https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json
 https://agit.ai/kvymin/TV/raw/branch/master/Box.json
 https://agit.ai/n/b/raw/branch/a/b/c.json
 https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
-https://freed.yuanhsing.cf/TVBox/meowcf.json
-http://xzam.cn/tv
 俊佬在线:http://home.jundie.top:81/top98.json
 宝盒线路:2026https://3043.kstore.space/bhvip/bh/bh2.json
 王二小（新）:https://9280.kstore.vip/newwex.json
@@ -192,11 +186,8 @@ https://pastebin.com/raw/sbPpDm9G
 https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
 https://kjsc0310.github.io/tvy/jk9.json
 http://home.jundie.top:81/TVBox/yosakoi.json
-https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
-https://agit.ai/n/b/raw/branch/a/b/c.json
 https://liu673cn.github.io/box/m.json
 http://js.134584.xyz/json/pp87.json
-https://agit.ai/kvymin/TV/raw/branch/master/Box.json
 https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
 https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
 http://epg.112114.xyz
@@ -737,10 +728,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm
 https://github.moeyy.xyz/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
 霜辉月明 https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
-一电视剧 https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json
-甜蜜 https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json
 一木 https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json
-zzz1 https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 胖鸭子 https://agit.ai/cyl518/yl/raw/branch/master/ml.json
 云储 https://yunchu.cxoip.com/
 2☞https://clun.top/fun.json（点播+直播)
