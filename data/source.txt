@@ -762,3 +762,396 @@ https://www.moil.cc/10.html
 https://www.lige.fit/tvbox
 https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json
 https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
+
+
+https://14256.kstore.space/index.js.md5
+
+https://9280.kstore.vip/cat/index.js.md5
+
+https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js.md5
+
+https://ghfast.top/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
+
+https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5
+
+二、影视主接口（多仓/单仓/综合/4K）
+🟢 南风接口：https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
+
+🔴 刘673仓：https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+
+🟡 XYQ接口：https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+
+🟢 小盒子4K：http://xhztv.top/4k.json
+
+🔴 凯速备用：https://6800.kstore.vip/fish.json
+
+🟡 4K影视仓：http://api.v6x.wht.dgwht.top/text/38eb027069d4a621/6c99aa0391877221
+
+🟢 主用多仓：https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json
+
+🔴 备用多仓1：https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/dfvdv.json
+
+🟡 潇洒多仓：https://9877.kstore.space/AnotherDS/api.json
+
+🟢 潇洒单线：https://9877.kstore.space/AnotherD/api.json
+
+🔴 小虎斑：http://hb.小虎斑.site:25252/
+
+🟡 OK接口：http://ok321.top/tv
+
+🟢 巧计接口：http://cdn.qiaoji8.com/tvbox.json
+
+🔴 稳定4K：http://v-dragon.com.hk/4k/
+
+🟡 4K接口：http://tv.4kbox.top/4k/index.php
+
+🟢 茴香4K：https://12523.kstore.space/hx.json
+
+🔴 如意接口：https://gitee.com/wynp/ys/raw/master/yc.json
+
+🟡 澜露接口：https://gitee.com/hulanlu/04/raw/master/lanlu.json
+
+🟢 PG在线：https://www.252035.xyz/p/jsm.json
+
+🔴 PG备用：https://ghfast.top/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json
+
+🟡 潮哥接口：https://catbox.n13.club/jk/jsm.json
+
+🟢 真心接口：https://www.252035.xyz/z/FongMi.json
+
+🔴 夏夏4K：https://11405.kstore.space/xiaye/qk4k.json
+
+🟡 爱吃鬼：http://121.40.174.45:1777/2509/爱吃鬼.json
+
+🟢 学习类：http://www.su7.run/
+
+🔴 小哥哥：http://47.96.82.41:8/api.json
+
+🟡 蓝天4K：http://103.163.47.120:666/蓝天/蓝天解析1.php
+
+🟢 刺桐自营：https://www.cttv.vip/ys/json/ctys.json
+
+🔴 小荷接口：https://jihulab.com/z-blog/xh2/-/raw/main/t.json
+
+🟡 木木接口：https://gitee.com/bbstudou/tvbo/raw/master/11tv.json
+
+🟢 裹柳接口：https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json
+
+🔴 巧儿接口：http://pandown.pro/tvbox/tvbox.json
+
+🟡 小米接口：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
+
+🟢 玄珠接口：https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
+
+🔴 聚玩盒子：http://xhztv.top/xhz/
+
+🟡 驸马影视：http://fmys.top/fmys.json
+
+🟢 一哥接口：http://ficfac.com/ijia/app.json
+
+🔴 维她奶：https://d.kstore.dev/download/4071/api/api.json
+
+🟡 TV家庭：https://tv.nxog.top/m/111.php?ou=公众号欧歌 app&mz=index&jar=index&123&b=tv
+
+🟢 俊佬接口：http://home.jundie.top:81/top98.json
+
+🔴 4K高清：https://11405.kstore.space/xiaye/4k1.json
+
+🟡 高清免扫：https://11405.kstore.space/xiaye/1080.json
+
+🟢 快龙资源：https://gitee.com/sd-live/zb/raw/master/js.json
+
+🔴 大佬接口：https://tv.203511.xyz/0821.json
+
+🟡 龙潭接口：https://gitee.com/hu-congrong/ltcw/raw/main/cbh.json
+
+🟢 龙潭音乐：https://d.kstore.dev/download/6651/api.json
+
+🔴 小橙子4K：https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json
+
+🟡 宝盒4K：http://宝盒接口.top
+
+🟢 饭太硬：http://www.饭太硬.com/tv
+
+🔴 放牛娃：http://tvbox.xn--4kq62z5rby2qupq9ub.top/
+
+🟡 宝盒视界：https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json
+
+🟢 扶摇4K：http://svipjx.shanhaiguanwu.com/A4K.json
+
+🟡 D佬接口：https://download.kstore.space/download/2883/nzk/nzk0722.json
+
+🟢 万家影视：http://47.108.190.232:666/api/index/store?id=14&appid=95210
+
+🔴 神秘大佬：https://gitee.com/sydl2/bhmb/raw/master/ygbh.json
+
+🟡 教育专线1：http://box.nihaohezi.com/app/hzjy.json
+
+🟢 教育专线2：https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
+
+🔴 宇静鸣：https://gitee.com/enjoy_5_0/gg/raw/vip/gz.json
+
+🟡 春盈接口：https://cdn09022024.gitlink.org.cn/api/v1/repos/hailin/aishangtv5/raw/tvbox%2Faishang.json?ref=master&access_token=23b93fc08ea0b7793ba24a7e0cb0041b64929cee
+
+🟢 蓝天白云：https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json
+
+🔴 柒豪4K：http://38.165.20.168/%E6%9F%92%E8%B1%AA4K.json
+
+🟡 天神LY：https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json
+
+🟢 4K影视：https://gitee.com/zxj77/mao/raw/master/xj.json
+
+🔴 空空4K：https://kong88.dpdns.org/4k.json
+
+🟡 壹米影视：http://xn--hwtam458y.icu/%E5%A3%B9%E7%B1%B3/yimi.json
+
+🟢 幸福接口：http://xn--hwtam458y.icu/%E5%9B%BD%E5%BA%86%E5%B9%B8%E7%A6%8F/hyhr.json
+
+🔴 天微七星：https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json
+
+🟡 小龙短剧：https://gitee.com/dxl900109/yyds/raw/master/%E5%B0%8F%E9%BE%99%E7%9F%AD%E5%89%A7.json
+
+🟢 东哥接口：https://gitee.com/dong2274560336/film-and-television-interface/raw/master/fty.json
+🔴 鸟叔接口：https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json
+
+🟡 菜妮丝：https://tv.菜妮丝.top
+
+🟢 运输车VIP：http://530.my3v.work/hxck.json
+
+🔴 影探4K：http://www.lyyytv.cn/yt/yt.json
+
+🟡 优质接口：https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json
+
+🟢 绿茶影院：http://550.3vcn.work/cbh.json
+
+🔴 私人影院：http://550.3vcn.work/xj.json
+
+🟡 果冻自用：https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/jelly.json
+
+🟢 龙伊线路：https://龙伊.top
+
+🔴 花花公子：https://d.kstore.dev/download/12020/t4.json
+
+🟡 电视魔盒：https://chuanshuo.77blog.cn/tv.json
+
+🟢 金鹰接口：http://550.3vcn.work/wdjyys.json
+
+🔴 青龙接口：https://gitee.com/yiwu369/6758/raw/master/1.json
+
+🟡 环宇轩：https://6492.kstore.space/xnf/xnf.jso
+
+🔴 星河4K：http://116.196.116.76/tv
+
+🟡 楞牛哥：http://lengniuge.cf/yingshi
+
+🟢 霜辉月明：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+
+🔴 QIST接口：https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
+
+🟡 0202接口：http://150.158.112.123/bb/0202.txt
+
+🟢 宝盒VIP：https://3043.kstore.space/bhvip/bh/box.json
+
+🔴 月亮V：https://xn--3lq960d.v.nxog.top/api.php?id=2
+
+🟡 欧歌接口：http://tv.nxog.top/m/
+
+🟢 摸鱼UZ：http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json
+
+🔴 喵影视：http://www.meowtv.vip/tvbox.json
+
+🟡 胜寒接口：https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json
+
+🟢 二哈接口：https://ghfast.top/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+
+三、特色专用接口
+🔴 摸鱼接口：http://我不是。摸鱼儿.com
+
+🟡 肥猫接口：http://肥猫.com
+
+🟢 宝盒接口：http://mzjk.top/
+
+🔴 戏曲接口：http://mzrjk.top/戏曲
+
+🟡 学习接口：http://mzrjk.top/学习
+
+🟢 音乐接口：http://mzrjk.top/音乐
+
+🔴 Jack老师：http://ok213.top/tv
+
+四、专项线路接口
+4.1 游魂网络专线
+🔴 游魂fty：https://www.iyouhun.com/tv/fty
+
+🟡 游魂fxz：https://www.iyouhun.com/tv/fxz
+
+🟢 游魂fm：https://www.iyouhun.com/tv/fm
+
+🔴 游魂hzm：https://www.iyouhun.com/tv/hzm
+
+🟡 游魂xs：https://www.iyouhun.com/tv/xs
+
+🟢 游魂dh：https://www.iyouhun.com/tv/dh
+
+4.2 牛二线路（安卓/IOS专用）
+🟡 牛二(新街口)：https://9280.kstore.vip/newwex.json
+
+🟡 牛二(中文top)：http://tvbox.王二小放牛娃.top
+
+🟡 牛二(常规top)：http://tvbox.xn--4kq62z5rby2qupq9ub.top
+
+🟡 牛二(1数字xyz)：http://tv.999888987.xyz/
+
+🟡 牛二(2数字xyz)：http://tv.999888123.xyz/
+
+🟡 牛二(凯速)：https://9280.kstore.vip/wex.json
+
+4.3 IOS专用壳接口
+🟡 M壳/猫壳/羊壳：http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
+
+🟡 M壳/猫壳/羊壳：http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
+
+🟡 M壳/猫壳/羊壳：http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
+
+🟡 M壳/羊壳专用：https://9280.kstore.vip/cat/index.js.md5
+
+4.4 饭太硬专属
+🔴 饭太硬主1：http://www.饭太硬.net/tv
+
+🟡 饭太硬主2：http://www.饭太硬.com/tv
+
+🟢 饭太硬备用1：http://www.饭太硬.xyz/tv
+
+🔴 饭太硬备用2：http://fty.xxooo.cf/tv
+
+🟡 饭太硬备用3：http://fty.888484.xyz/tv
+
+🟢 饭太硬备用4：http://fty.333232.xyz/tv
+
+4.5 江苏专用
+🔴 江苏专用：https://gitee.com/xxoooo/fan/raw/master/in.bmp
+
+4.6 摸鱼4K
+🟢 摸鱼4K主：http://我不是.摸鱼儿.com
+
+🔴 摸鱼4K备用：http://我不是.摸鱼儿.top
+
+4.7 小米专属
+🟢 小米主：http://miqk.cc/小米/DEMO.json
+
+🔴 小米备用：https://mi.mpanso.me/DEMO.json
+
+4.8 OK猫专属
+🟡 OK猫内部：http://ok321.top/tv
+
+🟢 OK猫外部（激活码3844）：http://ok321.top/ok
+
+4.9 短剧专项
+🟡 短剧接口1：http://74.120.175.78/JK/XYQTVBox/dj.json
+
+🟢 短剧接口2：http://box.ufuzi.com/tv/qq/短剧频道/api.json
+
+🔴 剪影接口：https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json
+
+4.10 音乐/戏曲/少儿专项
+🔴 TG音乐：https://7337.kstore.space/TGMTV/TGyinyue.txt
+
+🟡 DG音乐台：https://ddzb.fun/dgmusic/api.json
+
+🟢 DG戏曲：http://101.200.122.188/xiqu
+
+🔴 Nx音乐：https://pz.nxpz.xyz/tgyyc/api.json
+
+🟡 少儿频道：https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+
+🔴 柒豪本地包：https://gitee.com/qihaoyyds/qihao/raw/master/本地包.zip
+
+🟡 潇洒单线包：https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip
+
+🟢 潇洒多线包：https://gitee.com/PizazzXS/another-d/raw/master/多线路.zip
+
+🔴 壁纸接口：http://127.0.0.1:9978/proxy?do=wallpaper
+
+6.2 视频链接解析
+🔴 爱豆儿解析：https://jx.aidouer.net/?url=
+
+🟡 战狼部解析：https://jx.zhanlangbu.com/?url=
+
+🟢 联发卡解析：https://vip.lianfaka.com/vip/?url=
+
+🔴 博兹解析：https://jx.bozrc.com:4433/player/?url=
+
+6.3 PG包（配套使用）
+🔴 天天开心PG：http://ttkx.cc:55/pg/jsm.json
+
+🟡 多多PG：https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json
+
+🟢 宝盒没宝PG：http://ygbhbox.3vfree.club/pg/jsm.json
+
+6.4 评分推荐（片单）
+🔴 豆瓣评分：http://175.178.251.183:6689/tv.txt
+
+🟡 豆瓣Q群版：https://yydf.540734621.xyz/QQ/yydf2024.json
+
+七、开源项目&仓库
+🔴 TVBoxOS：https://github.com/q215613905/TVBoxOS
+
+🟡 CatVodTVOSC：https://github.com/kensonmiao/CatVodTVOSC
+
+🟢 pluto-player：https://github.com/pluto-player/updates
+
+🔴 takagen99：https://github.com/takagen99/TVBoxOSC
+
+🟡 o0HalfLife0o：https://github.com/o0HalfLife0o/TVBoxOSC
+
+🟢 clanTV：https://github.com/clanTV/clanTV
+
+🔴 FongMi：https://github.com/FongMi/TV
+
+🟡 BearTV：https://github.com/haha459862/BearTV
+
+🟢 官方TVBoxOSC：https://github.com/CatVodTVOfficial/TVBoxOSC
+
+🔴 tv-player：https://github.com/tv-player
+
+八、外链网盘合集
+1 大白™：https://pan.gt68.cn/
+
+2 摆渡™：https://pan.baidu.re/
+
+3 彩虹™：https://cccimg.com/
+
+4 小黄人™：https://fel.forxhr.top:2022/
+
+5 八九™：https://wp.sqsq.net/
+
+6 惜染™：https://mpimg.cn/
+
+7 云QQ™：https://pan.qqimm.cn/
+
+8 蓝旅™：http://wp.lanlt.cn/
+
+9 乐趣享™：https://www.lequxiang.com.cn/
+
+10 松子云盘：https://pan.szfx.top/
+
+11 资灵™：https://file.ziling.site/
+
+12 无名IP™：http://114.132.198.144/
+
+13 酷美网盘：https://www.kumeiwp.com/
+
+14 逍遥网盘：http://file.cry33.com/
+
+15 冰泰网盘：http://pan.aa53.cn/
+
+16 凯速网盘⁺：https://my.ksust.com/kstore.htm
+
+17 九七网盘⁺：https://www.97pan.cn/
+
+18 小年网盘⁺：https://pan.jl8.top/
+
+19 初心云盘⁺：https://chuxinya.top/
+
+20 看见存储⁺：https://www.seeoss.com/
