@@ -30,6 +30,10 @@ MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyH
 無界LITE:https://www.xn--rgv465a.top/lite.json
 無界多倉:https://www.xn--rgv465a.top/fine.json
 無界ZYPLAYER:https://www.xn--rgv465a.top/zyplayer.json
+自用: https://clun.top/box.json
+张佬: https://clun.top/aa.json
+PG: https://clun.top/jsm.json
+
 https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json
 https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json
