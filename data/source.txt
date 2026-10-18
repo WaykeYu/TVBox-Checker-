@@ -33,7 +33,6 @@ MyHomeTV_短剧 - https://github.moeyy.xyz/https://raw.githubusercontent.com/MyH
 自用: https://clun.top/box.json
 张佬: https://clun.top/aa.json
 PG: https://clun.top/jsm.json
-
 https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json
 https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json
@@ -58,7 +57,6 @@ zhangqun1818:http://zhangqun1818.serv00.net/zq/api.json
 分享在线:http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json
 黄金在:https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json
 CandyMu:https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
-Clun在线:https://clun.top/box.json
 小盒子4K:http://xhztv.top/4k.json
 英格里希嗷呜:http://www.英格里希嗷呜.top/tv
 宝盒接口:http://宝盒接口.top
@@ -260,7 +258,6 @@ http://bobohome.ignorelist.com:20247/真心/
 http://bobohome.ignorelist.com:20247/
 https://pan.quark.cn/s/aea12557d1ce
 ™菜妮丝源：https://tv.菜妮丝.top/
-™龙伊专线：https://xn--qoqw77q.top/
 https://d.kstore.dev/download/7336/yhykeji.json
 https://ghfast.top/https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/json/config.json
 https://catvodspider-49d.pages.dev/json/config.json
@@ -646,7 +643,6 @@ https://cr.5987768.xyz/晨瑞黑科/movie.php
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/素白白.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/视觉.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/金牌.py
-磁力炮：https://www.cilipao.cc/
 https://www.cttv.vip/ys/json/ctys.json
 DS9接口https://d.kstore.dev/download/12441/ds9.txt
 https://d.kstore.dev/download/12441/dc6.json
@@ -722,7 +718,6 @@ XN http://xn--6orr3pi6g9uu.top/
 多仓 https://ghproxy.cxkpro.top/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json
 https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/main/宜优精选.json
 http://bobohome.ignorelist.com:20247/tencent/banners
-吾爱 http://52bsj.vip :98/wuai
 网盘 https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json https://gitdl.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 高天流云 https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
 https://box.iqinu.com/
@@ -774,7 +769,6 @@ https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 🟡 游魂xs：https://www.iyouhun.com/tv/xs
 🟢 游魂dh：https://www.iyouhun.com/tv/dh
 🔴 爱豆儿解析：https://jx.aidouer.net/?url=
-🟡 战狼部解析：https://jx.zhanlangbu.com/?url=
 🔴 TVBoxOS：https://github.com/q215613905/TVBoxOS
 🟢 pluto-player：https://github.com/pluto-player/updates
 🔴 takagen99：https://github.com/takagen99/TVBoxOSC
@@ -787,7 +781,6 @@ https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 2 摆渡™：https://pan.baidu.re/
 3 彩虹™：https://cccimg.com/
 6 惜染™：https://mpimg.cn/
-10 松子云盘：https://pan.szfx.top/
 13 酷美网盘：https://www.kumeiwp.com/
 14 逍遥网盘：http://file.cry33.com/
 16 凯速网盘⁺：https://my.ksust.com/kstore.htm
