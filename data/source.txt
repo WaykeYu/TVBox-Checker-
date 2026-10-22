@@ -21,6 +21,16 @@
 不好意思点播：https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt
 不好意思点播：https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 不好意思点播2☞：https://clun.top/fun.json（点播+直播)
+
+TVBox 自用 接口:https://clun.top/box.json
+TVBox 张佬 接口:https://clun.top/aa.json
+TVBox PG 接口:https://clun.top/jsm.json
+TVBox 18+ 接口:https://clun.top/fun.json
+
+
+
+
+
 短剧: https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
 🔥爱在指尖|短剧🔥 - https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json
 MyHomeTV_短剧 - https://ghfast.top/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json
