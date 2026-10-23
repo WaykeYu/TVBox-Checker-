@@ -1,16 +1,26 @@
-http://饭太硬.top/tv
-https://ghproxy.net
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
-https://qljs.qzz.io/ql1010.json
-https://qlkj.qzz.io/ql1010.json
+http://bp.tvbox.cam/
+https://yunchu.cxoip.com/
+http://tvjuhe.mitetech.cn:5622/
+https://xn--2qg-mf3g9f.v.nxog.top/m/111.php
+https://xn--dkz-mf3g9f.u.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌dkz
+https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌d4u
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py
+https://欧歌.v.nxog.top/
+http://api.btstu.cn/sjbz/?lx=suiji
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
+https://xn--appa-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=ap欧歌pa
+https://www.moil.cc/10.html
+https://xn--dkw0c.e.nxog.top/
+https://w.junce.dpdns.org/fm.gif
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://qljs.qzz.io/ql1010.json
-https://qlkj.qzz.io/ql1010.json
 http://mzrjk.top/VIP
 http://摸鱼儿.cc
 https://w.junce.dpdns.org/fm.gif
@@ -19,7 +29,6 @@ https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3
 https://jk.catvod.site/
 http://肥猫.net/t
 https://w.junce.dpdns.org/fm.gif
-https://6800.kstore.vip/fish.json
 https://gitee.com/wynp/ys/raw/master/yc.json
 http://fmys.top/fmys.json
 http://rihou.cc:555/nzk/nzk0722.json
@@ -47,6 +56,7 @@ https://100km.top/0
 https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
 https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json
 https://d.kstore.space/download/6474/tvbox/api.json
+https://xn--2qg-mf3g9f.v.nxog.top/m/111.php
 https://100km.top/0
 https://pastebin.com/raw/5NHaxyGR
 https://pastebin.com/raw/5NHaxyGR
@@ -71,6 +81,7 @@ http://www.dmtv.ml/mao/single.json
 https://download.kstore.space/download/3313/mao/ymz
 https://freed.yuanhsing.cf/TVBox/meowcf.json
 http://xzam.cn/tv
+https://yunchu.cxoip.com/
 http://www.饭太硬.art/tv
 http://fty.xxooo.cf/tv
 http://hello.肥猫.net
@@ -137,14 +148,12 @@ http://itvbox.cc/zyplayer/云星日记.json
 http://itvbox.cc/如意音乐/云星日记.json
 http://www.小不点.com
 https://xn--biib-rp5imh.v.nxog.top/apitv.php)
-https://6800.kstore.vip/fish.json
 http://fmys.top/fmys.json
 https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box
 http://rihou.cc:88/demoabc.json
 https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 http://www.小不点.com
 https://xn--biib-rp5imh.v.nxog.top/apitv.php
-https://6800.kstore.vip/fish.json
 http://fmys.top/fmys.json
 https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box
 http://rihou.cc:88/demoabc.json
@@ -162,8 +171,8 @@ http://tv.xn--11x555b.top/svip
 http://api.fumilong.com/%E7%93%9C%E5%AD%90.json
 https://xn--ssss-rp5imh.v.nxog.top/apitv.php?id=11
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
-https://6800.kstore.vip/fish.json
 https://ym.wya6.cn/
+http://tvjuhe.mitetech.cn:5622/
 http://fty.xxooo.cf/tv
 http://www.饭太硬.art/tv/
 https://xn--56jc783u8uaj9fd4ae3g5r7adg8d.v.nxog.top/api.php?id=1
@@ -182,7 +191,6 @@ https://2.nxog.eu.org/tvbox/cache/10.html
 https://2.nxog.eu.org/tvbox/cache/17.html
 http://www.小不点.com
 https://xn--biib-rp5imh.v.nxog.top/apitv.php
-https://6800.kstore.vip/fish.json
 http://fmys.top/fmys.json
 https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box
 http://rihou.cc:88/demoabc.json
@@ -191,6 +199,7 @@ https://ym.wya6.cn/
 http://fty.xxooo.cf/tv
 https://xn--56jc783u8uaj9fd4ae3g5r7adg8d.v.nxog.top/api.php?id=1
 https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/app_api.php?=接口免费学习使用，所有文件来源于网络请在24小时内全部删除
+http://tvjuhe.mitetech.cn:5622/
 https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
 https://gitee.com/yimi321/tv/raw/master/tv.png
 http://rihou.cc:555/gggg.nzk
@@ -203,7 +212,6 @@ https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
 http://iptv.4666888.xyz/FYTV.txt
 https://wget.la/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
-https://ds65.tv1288.xyz
 https://wget.la/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u
 https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
 https://m.iill.top/Live.m3u
@@ -233,22 +241,17 @@ http://cdn.qiaoji8.com/tvbox.json
 http://hello.肥猫.net
 https://w.junce.dpdns.org/fm.gif
 http://mzrjk.top/VIP
-https://6800.kstore.vip/fish.json
 http://www.小不点.com
 http://rihou.cc:88/demo.php
 http://xn-6orr3pi6g9uu.top
-https://6800.Kstore.vip/fish.json
-https://pastecode.dev/raw/7tvw3n7c/kuzis.json
 http://摸鱼儿.cc
 http://www.小不点.com
-https://6800.kstore.vip/fish.json
 https://9xi4o.tk/tvbox.json
 https://7337.kstore.space/qxys/禁止传播.json
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 http://fmys.top/fmys.json
 http://www.饭太硬.com/tv
 http://rihou.cc:88/demo.php
-https://6800.kstore.vip/fish.json
 http://ok321.top/tv
 https://catbox.n13.club/jk/jsm.json
 https://catbox.n13.club/jk/t4.json
@@ -263,15 +266,13 @@ https://qist.wyfc.qzz.io/xiaosa/api.json11.UUCCC
 http://xn--5mqx81b535a.com/12.苍蓝
 http://xn--6orr3pi6g9uu.top13.https://13537.kstore.vip/tvbox/test.json14.新接口
 http://rihou.cc:88/demo.php
-https://6800.kstore.vip/fish.json
 https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2
-http://王二小放牛娃牛逼.999888987.xyz
-https://pastecode.dev/raw/7tvw3n7c/kuzis.json
 http://www.饭太硬.com/tv
 http://肥猫.com
 http://tv.nxog.top/m/
 http://xhww.fun/小米
 http://cdn.qiaoji8.com/tvbox.json
+http://bp.tvbox.cam/
 http://www.wya6.cn/tv/yc.json
 https://w.junce.dpdns.org/fm.gif
 http://fty.xxooo.cf/tv
@@ -319,7 +320,6 @@ http://rihou.cc:88/荷城茶秀
 https://raw.gitmirror.com/159ecn/vip/main/ysc/t.json
 http://fty.xxooo.cf/tv
 http://www.小不点.com
-https://6800.kstore.vip/fish.json
 http://hello.肥猫.net
 https://1812012130.v.123pan.cn/1812012130/26485795
 https://9877.kstore.space/ONE/one.json
@@ -337,7 +337,6 @@ https://sscq-pay.kingnet.com/static/test.json
 http://www.饭太硬.art/tv
 http://fty.xxooo.cf/tv
 https://9877.kstore.space/AnotherD/api.json
-https://6800.kstore.vip/fish.json
 https://gitee.com/blssss/jk/raw/api/bls.json
 http://我不是.摸鱼儿.xyz
 http://肥猫.com
@@ -387,7 +386,6 @@ https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json
 https://9877.kstore.space/AnotherDS/api.json
 https://bitbucket.org/xduo/cool/raw/main/room.json
 https://qixing.myhkw.com/DC.txt
-https://6800.kstore.vip/fish.json
 https://9877.kstore.space/AnotherD/api.json
 https://9xi4o.tk/0725.json
 http://pandown.pro/tvbox/tvbox.json
@@ -419,13 +417,11 @@ https://肥猫.com
 http://www.饭太硬.com/tv
 https://9877.kstore.space/AnotherD/api.json
 https://catbox.n13.club/jk/t4.json
-https://6800.kstore.vip/fish.json
 https://catbox.n13.club/jk/t4.json
 https://1812012130.v.123pan.cn/1812012130/24747370
 https://www.ls660.com/TV/suoo.json
 https://vip.123pan.cn/1812012130/16867413
 http://rihou.cc:88/demo.php
-https://6800.kstore.vip/fish.json
 https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 https://d.kstore.dev/download/3376/2026.json
 http://肥猫.com
@@ -523,7 +519,6 @@ http://我不是.摸鱼儿.xyz
 http://肥猫.com
 http://ok321.top/tv
 http://7337.kstore.space/qxys/禁止传播.json
-https://6800.kstore.vip/fish.json
 http://127.0.0.1:9978/proxy?do=wallpaper
 http://饭太硬.com/tv
 http://www.饭太硬.com/tv
@@ -559,7 +554,6 @@ https://肥猫.com
 http://www.饭太硬.com/tv
 http://mpanso.me/%E5%B0%8F%E7%B1%B3/DEMO.json
 https://9877.kstore.space/AnotherD/api.json
-https://6800.kstore.vip/fish.json
 http://127.0.0.1:9978/proxy?do=wallpaper
 https://gitee.com/blssss/jk/raw/api/bls.json
 http://我不是.摸鱼儿.xyz
@@ -597,7 +591,6 @@ http://xhww.fun:63/小米/DEMO.json
 https://yydsys.top/duo
 http://ok321.top/tv
 http://yuan.haitangw.net/tv/
-http://饭太硬.top/tv
 https://tvbox.cainisi.cf
 http://yuan.haitangw.net/box/
 http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=
@@ -963,7 +956,6 @@ http://miqk.cc/小米/DEMO.json
 https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
 https://gitee.com/qlysgzs/qlys/raw/master/qlyc_tv.txt
 https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
-https://live.hacks.tools/tv/iptv4.m3u
 http://rihou.cc:555/gggg.nzk
 https://乐哥.xyz/zjdhk.json
 http://ttkx.cc:55/天天开心
@@ -990,6 +982,7 @@ https://codeberg.org/Stephen2024/TV/raw/branch/main/fyk.json
 https://4708.kstore.space/hollo/ck.json
 https://qixing.myhkw.com/DC.txt
 http://肥猫.com/
+https://xn--dkz-mf3g9f.u.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌dkz
 https://gitee.com/ajqubbs/pizazz-gytvbox-main/raw/master/api.json
 https://codeberg.org/mzjk0/api/raw/branch/main/vip.json
 http://mzjk.top/禁止贩卖
@@ -1045,6 +1038,7 @@ https://xn--dkw0c.e.nxog.top/apitv.php?id=10?&t7y
 https://pan.baidu.re/down.php/161751ecf913429d20f1eaac68fe8d5d.txt&5
 http://我不是.摸鱼儿.xyz
 http://ttkx.cc:55/天天开心
+https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌d4u
 http://我不是.摸鱼儿.xyz
 http://ok321.top/tv
 http://ok321.top/ok
@@ -1130,16 +1124,14 @@ https://4708.kstore.space/dc.txt
 http://www.饭太硬.com/tv
 http://fty.xxooo.cf/tv
 https://www.mpanso.com/小米/DEMO.json
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_次元.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/九龙趣看.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/五五短剧.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/娱乐大师.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/皮皮虾影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py
 https://qixing.myhkw.com/DC.txt
 https://o.nxog.top/nxog/ou1.php
 https://bitbucket.org/xduo/cool/raw/main/line.json
@@ -1167,6 +1159,7 @@ http://wpyt.hk/tvbox/ruyi/
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -1281,7 +1274,7 @@ http://刚刚.live/图
 http://饭太硬.ga/深色壁纸/api.php
 https://www.dmoe.cc/random.php
 https://api.btstu.cn/sjbz/zsy.php
-https://pictures.catvod.eu.org/
+http://api.btstu.cn/sjbz/?lx=suiji
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 https://xn--h4s-mf3g9f.v.nxog.top/m/t/
 https://www.xn--rgv465a.top/无界随机壁纸
@@ -1298,6 +1291,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -1372,7 +1366,6 @@ http://itvbox.cc/tvbox/云星日记/bili.m3u8
 https://yydsys.top/duo
 https://raw.liucn.cc/box/xiaopingguo.json
 https://jihulab.com/xiaohutx/box/-/raw/main/0.json
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
 http://52bsj.vip:98/wuai
 http://52bsj.vip:98/0805
 https://agit.ai/hu/hcr/raw/branch/master/haoh.txt
@@ -1508,6 +1501,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -1576,6 +1570,7 @@ https://bitbucket.org/xduo/cool/raw/main/line.json
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -1603,6 +1598,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -1637,6 +1633,7 @@ http://itvbox.cc/tvbox/云星日记/1.m3u8
 https://la.kstore.dev/download/2863/01.txt
 http://ttkx.live:55/天天开心
 https://www.mpanso.com/小米/DEMO.json
+http://bp.tvbox.cam/
 https://la.kstore.dev/download/2883/0110.txt
 https://github.moeyy.xyz/https://raw.githubuser
 https://pastebin.com/raw/5NHaxyGR
@@ -1714,6 +1711,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -1788,6 +1786,7 @@ http://go2.work.gd/短剧
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
 http://www.xzwl.top/祥子影视/main/xzysdm.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json
@@ -1819,6 +1818,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -1875,6 +1875,7 @@ http://wpyt.hk/tvbox/ruyi/
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -1989,7 +1990,7 @@ http://刚刚.live/图
 http://饭太硬.ga/深色壁纸/api.php
 https://www.dmoe.cc/random.php
 https://api.btstu.cn/sjbz/zsy.php
-https://pictures.catvod.eu.org/
+http://api.btstu.cn/sjbz/?lx=suiji
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 https://xn--h4s-mf3g9f.v.nxog.top/m/t/
 https://www.xn--rgv465a.top/无界随机壁纸
@@ -2006,6 +2007,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -2080,7 +2082,6 @@ http://itvbox.cc/tvbox/云星日记/bili.m3u8
 https://yydsys.top/duo
 https://raw.liucn.cc/box/xiaopingguo.json
 https://jihulab.com/xiaohutx/box/-/raw/main/0.json
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
 http://52bsj.vip:98/wuai
 http://52bsj.vip:98/0805
 https://agit.ai/hu/hcr/raw/branch/master/haoh.txt
@@ -2216,6 +2217,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -2284,6 +2286,7 @@ https://bitbucket.org/xduo/cool/raw/main/line.json
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -2311,6 +2314,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -2339,6 +2343,7 @@ http://itvbox.cc/tvbox/云星日记/1.m3u8
 https://la.kstore.dev/download/2863/01.txt
 http://ttkx.live:55/天天开心
 https://www.mpanso.com/小米/DEMO.json
+http://bp.tvbox.cam/
 https://la.kstore.dev/download/2883/0110.txt
 https://github.moeyy.xyz/https://raw.githubuser
 https://pastebin.com/raw/5NHaxyGR
@@ -2416,6 +2421,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -2490,6 +2496,7 @@ http://go2.work.gd/短剧
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
 http://www.xzwl.top/祥子影视/main/xzysdm.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json
@@ -2521,6 +2528,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -2664,6 +2672,7 @@ https://11256.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json
 https://9xi4o.tk/tvbox.json
 http://fmys.top/fmys.json
 https://gzc.lzo.publicvm.com/cangku.json
+https://xn--2qg-mf3g9f.v.nxog.top/m/111.php
 https://gitee.com/jinenyy/tvbox/raw/master/tvbox.json
 http://www.饭太硬.com/tv
 http://肥猫.com/
@@ -2804,6 +2813,7 @@ https://6492.kstore.space/xnf/xnf.json
 https://d.kstore.dev/download/6726/%E4%B9%A6%E8%99%AB%E5%BD%B1%E8%A7%86%E4%B8%93%E7%89%99%EF%BC%99%E5%A4%87%E7%94%A8%E7%BA%BF%E8%B7%AF%EF%BC%89.txt
 http://box.ufuzi.com/tv/qq/短剧频道/api.json
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 http://mzjk.top/禁止贩卖
 http://meowtv.top/tv
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
@@ -3055,6 +3065,7 @@ https://chuanshuo.77blog.cn/tv.json
 https://2912.kstore.space/0506.json
 https://毒盒.com/tv/dc.json
 http://vip.nxog.top/m/
+https://xn--appa-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=ap欧歌pa
 https://tv.nxog.top/apitv.php?id=21
 http://肥猫.com/
 https://6296.kstore.vip/facat.json
@@ -3102,7 +3113,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN
 https://gitdl.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
 https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
 https://lem85930.github.io/JN/雷蒙影视JS.bmp
 https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
@@ -3110,7 +3120,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN
 https://gitdl.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp
 https://lem85930.github.io/JN/雷蒙影视VOD.bmp
 https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
@@ -3118,7 +3127,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN
 https://gitdl.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视VOD.bmp
 https://lem85930.github.io/JN/雷蒙影视WP.bmp
 https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
@@ -3126,7 +3134,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN
 https://gitdl.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
 https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
-https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视WP.bmp
 https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/gfdc.json
 http://150.158.112.123/jar/ce3.json
 https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json
@@ -3139,7 +3146,7 @@ http://74.120.175.78/JK/XYQTVBox/dj.json
 https://zhangqun66.com/zq/api.json
 http://年年幸福.icu:88/短剧/22.txt
 https://www.dmoe.cc/random.php
-https://pictures.catvod.eu.org/
+http://api.btstu.cn/sjbz/?lx=suiji
 https://bing.img.run/rand.php
 https://api.likepoems.com/img/bing
 https://xn-8ox-mf3g9f.v.nxog.top/m//t/
@@ -3163,7 +3170,6 @@ http://itvbox.cc/tvbox/云星日记/bili.m3u8
 https://yydsys.top/duo
 https://raw.liucn.cc/box/xiaopingguo.json
 https://jihulab.com/xiaohutx/box/-/raw/main/0.json
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
 http://52bsj.vip:98/wuai
 http://52bsj.vip:98/0805
 https://agit.ai/hu/hcr/raw/branch/master/haoh.txt
@@ -3399,6 +3405,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -3482,7 +3489,6 @@ https://4708.kstore.space/box/svip.json
 https://4708.kstore.space/ck.json
 http://l.gmbbk.com/upload/35143514.txt
 http://211.154.28.50:5898/2025.txt
-https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
 http://go8.myartsonline.com/zx/2/有线电视·CATV.txt
 http://fty.xxooo.cf/tv
 http://www.饭太硬.com/tv/
@@ -3506,6 +3512,7 @@ https://tv.youdu.fan:666
 http://www.mpanso.com/小米/DEMO.json
 https://毒盒.com/tv/dc.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://ym.wya6.cn/
@@ -3719,7 +3726,6 @@ http://zb.gjds.love/公众号搞机大师/gaoji.json
 http://zb.gjds.love/公众号搞机大师/gaojiduocang.txt
 http://l.gmbbk.com/upload/35143514.txt
 http://211.154.28.50:5898/2025.txt
-https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
 http://go8.myartsonline.com/zx/2/有线电视·CATV.txt
 http://fty.xxooo.cf/tv
 http://www.饭太硬.com/tv/
@@ -3742,6 +3748,7 @@ https://tv.youdu.fan:666
 http://www.mpanso.com/小米/DEMO.json
 https://毒盒.com/tv/dc.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://ym.wya6.cn/
@@ -3808,6 +3815,7 @@ https://tv.youdu.fan:666
 http://www.mpanso.com/小米/DEMO.json
 https://毒盒.com/tv/dc.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://ym.wya6.cn/
@@ -4000,6 +4008,7 @@ http://ok321.top/tv
 http://tv.nxog.top/m/
 https://iptvindex.v.nxog.top/api.php?id=1
 https://czy0220.gitee.io/cyuan/
+https://www.moil.cc/10.html
 https://codeberg.org/yw88075/tvbox.git
 https://codeberg.org/mzjk0/api/raw/branch/main/vip.json
 http://mzjk.top/禁止贩卖
@@ -4017,6 +4026,7 @@ http://fty.xxooo.cf/tv
 http://www.饭太硬.com/tv
 https://xn--dkw0c.e.nxog.top/api.php?id=1?&dMv
 https://xn--dkw0c.e.nxog.top/apitv.php?id=20?&7hQ
+https://xn--dkw0c.e.nxog.top/
 http://www.fish2018.us.kg/p/jsm.json
 http://175.178.251.183:6689/tv.txt
 http://www.饭太硬.com/tv
@@ -4101,6 +4111,7 @@ https://codeberg.org/Stephen2024/TV/raw/branch/main/fyk.json
 https://4708.kstore.space/hollo/ck.json
 https://qixing.myhkw.com/DC.txt
 http://肥猫.com/
+https://xn--dkz-mf3g9f.u.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌dkz
 https://gitee.com/ajqubbs/pizazz-gytvbox-main/raw/master/api.json
 https://codeberg.org/mzjk0/api/raw/branch/main/vip.json
 http://mzjk.top/禁止贩卖
@@ -4156,6 +4167,7 @@ https://xn--dkw0c.e.nxog.top/apitv.php?id=10?&t7y
 https://pan.baidu.re/down.php/161751ecf913429d20f1eaac68fe8d5d.txt&5
 http://我不是.摸鱼儿.xyz
 http://ttkx.cc:55/天天开心
+https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌d4u
 http://我不是.摸鱼儿.xyz
 http://ok321.top/tv
 http://ok321.top/ok
@@ -4241,16 +4253,14 @@ https://4708.kstore.space/dc.txt
 http://www.饭太硬.com/tv
 http://fty.xxooo.cf/tv
 https://www.mpanso.com/小米/DEMO.json
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_次元.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/九龙趣看.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/五五短剧.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/娱乐大师.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/皮皮虾影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py
 https://qixing.myhkw.com/DC.txt
 https://o.nxog.top/nxog/ou1.php
 https://bitbucket.org/xduo/cool/raw/main/line.json
@@ -4278,6 +4288,7 @@ http://wpyt.hk/tvbox/ruyi/
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -4392,7 +4403,7 @@ http://刚刚.live/图
 http://饭太硬.ga/深色壁纸/api.php
 https://www.dmoe.cc/random.php
 https://api.btstu.cn/sjbz/zsy.php
-https://pictures.catvod.eu.org/
+http://api.btstu.cn/sjbz/?lx=suiji
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 https://xn--h4s-mf3g9f.v.nxog.top/m/t/
 https://www.xn--rgv465a.top/无界随机壁纸
@@ -4409,6 +4420,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -4483,7 +4495,6 @@ http://itvbox.cc/tvbox/云星日记/bili.m3u8
 https://yydsys.top/duo
 https://raw.liucn.cc/box/xiaopingguo.json
 https://jihulab.com/xiaohutx/box/-/raw/main/0.json
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
 http://52bsj.vip:98/wuai
 http://52bsj.vip:98/0805
 https://agit.ai/hu/hcr/raw/branch/master/haoh.txt
@@ -4619,6 +4630,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -4687,6 +4699,7 @@ https://bitbucket.org/xduo/cool/raw/main/line.json
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -4714,6 +4727,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -4748,6 +4762,7 @@ http://itvbox.cc/tvbox/云星日记/1.m3u8
 https://la.kstore.dev/download/2863/01.txt
 http://ttkx.live:55/天天开心
 https://www.mpanso.com/小米/DEMO.json
+http://bp.tvbox.cam/
 https://la.kstore.dev/download/2883/0110.txt
 https://github.moeyy.xyz/https://raw.githubuser
 https://pastebin.com/raw/5NHaxyGR
@@ -4825,6 +4840,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -4899,6 +4915,7 @@ http://go2.work.gd/短剧
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
 http://www.xzwl.top/祥子影视/main/xzysdm.json
 https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://7337.kstore.space/twvip/自用测试.json
 https://qixing.myhkw.com/自用测试勿传DC.txt
 https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json
@@ -4930,6 +4947,7 @@ http://www.饭太硬.com/tv
 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 http://ok321.top/ok
 http://kxrj.site:55/天天开心
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
 http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php
 http://cdn.qiaoji8.com/tvbox.json
@@ -4986,6 +5004,7 @@ http://wpyt.hk/tvbox/ruyi/
 http://www.饭太硬.com/tv
 http://肥猫.com/
 http://ok321.top/tv
+https://欧歌.v.nxog.top/
 https://mi.mpanso.me/DEMO.json
 https://100km.top/0
 http://rihou.vip:55
@@ -5100,7 +5119,7 @@ http://刚刚.live/图
 http://饭太硬.ga/深色壁纸/api.php
 https://www.dmoe.cc/random.php
 https://api.btstu.cn/sjbz/zsy.php
-https://pictures.catvod.eu.org/
+http://api.btstu.cn/sjbz/?lx=suiji
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 https://xn--h4s-mf3g9f.v.nxog.top/m/t/
 https://www.xn--rgv465a.top/无界随机壁纸
@@ -5117,6 +5136,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
@@ -5191,7 +5211,6 @@ http://itvbox.cc/tvbox/云星日记/bili.m3u8
 https://yydsys.top/duo
 https://raw.liucn.cc/box/xiaopingguo.json
 https://jihulab.com/xiaohutx/box/-/raw/main/0.json
-https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png
 http://52bsj.vip:98/wuai
 http://52bsj.vip:98/0805
 https://agit.ai/hu/hcr/raw/branch/master/haoh.txt
@@ -5327,6 +5346,7 @@ http://meowtv.cn/tv
 http://itvbox.cc/云星日记
 https://gitee.com/tvkj/tw/raw/main/svip.json
 http://ygbh.live/box.php
+https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
 https://yydf.540734621.xyz/QQ/yydf2024.json
 http://cdn.qiaoji8.com/tvbox.json
