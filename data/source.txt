@@ -128,7 +128,6 @@ https://cnb.cool/fish2018/xs/-/git/raw/main/api.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json 看电视直播秒开
 https://agit.ai/ddx/TVBox/raw/branch/master/t4.js
-长期多仓接口：https://www.ls660.com/TV/iptv.txt
 https://11405.kstore.space/xiaye/1080.json
 https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
 https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json
@@ -148,7 +147,6 @@ dxawi: https://dxawi.github.io/0/0.json
 游魂多仓（备）: https://www.iyouhun.com/tv/yh
 小盒子多仓: http://xhztv.top/dc/
 小盒子多仓（备）: http://xhztv.top/DC.txt
-长期多仓接口：https://www.ls660.com/TV/tvbox.json
 牛二(新街口2) https://9280.kstore.space/newwex.json
 牛二(防屏蔽) https://9280.kstore.vip/wex.json
 https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
@@ -630,7 +628,6 @@ https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 https://3043.kstore.space/bhvip/bh/bhkj.json
 http://47.96.82.41:5188/api.json
 https://qist.wyfc.qzz.io/jsm.json
-https://www.ls660.com/TV/fantanyingtv.json
 http://bobohome.ignorelist.com:20247/🐅嗷呜/
 https://cr.5987768.xyz/晨瑞黑科/movie.php
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/素白白.py
@@ -679,7 +676,6 @@ https://vip.nxog.top
 https://tv.nxog.top/404/?&AbA?&W9e
 讴歌线路地址：http://tv.nxog.top/m/111.php
 tv家庭线路1 - https://tv.nxog.top/
-（8） https://api.btstu.cn/sjbz/?lx=dongman
 https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json 香雅情线
 讴歌： https://tv.nxog.top?&v7m
 欧歌：http://xn-dkwOc.v.nxog.top
@@ -778,13 +774,11 @@ https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 拾光，https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 sss通用源(长期稳定)，http://www.xn--sss604efuw.net/tv
 https://0.12yue.de5.net/tvbox/肥猫.json
-王小二 http://tvbox.王二小放牛娃.top
 虎斑 http://hb.小虎斑.site:25252/仅供测试
 吾爱 http://52bsj.vip :98/wuai
 肥猫主接口: http://肥猫.net/tv
 http://xn--dkw0c.zb.xn--dkw.xn--6qq986b3xl
 海阔菠菜源https://github.com/zhujiejie/LunaTV-config/blob/main/LunaTV-config.json
-http://ai.xn--4kq62z5rby2qupq9ub.top/
 http://new.王二小放牛娃.top/
 http://new.999888123.xyz/
 http://new.999888987.xyz/
@@ -820,4 +814,3 @@ https://6800.Kstore.vip/fish.json
 https://pastecode.dev/raw/7tvw3n7c/kuzis.json
 饭太硬： http://饭太硬.top/tv
 https://live.hacks.tools/tv/iptv4.m3u
-（11) https://pictures.catvod.eu.org/
