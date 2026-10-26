@@ -1,7 +1,3 @@
-https://clun.top/fun.json
-https://clun.top/box.json
-https://clun.top/aa.json
-https://clun.top/jsm.json
 https://8815.kstore.vip/tvbox/wmz
 http://肥猫.net/
 http://肥猫.net/tv
@@ -20,6 +16,8 @@ http://home.jundie.top:81/top98.json
 https://qist.wyfc.qzz.io/xiaosa/api.json
 https://tv.203511.xyz/0821.json
 https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
+https://qljs.qzz.io/ql1010.json
+https://qlkj.qzz.io/ql1010.json
 https://gh-proxy.org/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json
 http://宝盒接口.top
 https://play.iptv365.org/欧歌/api.json
@@ -31,8 +29,8 @@ http://mzrjk.top/唱戏
 http://mzrjk.top/智教
 http://mzrjk.top/听歌
 http://www.饭太硬.cc/tv
-http://tvbox.王二小放牛娃.top
 https://700sjro44343.vicp.fun/eggp/0211/tv.json
+https://6800.kstore.vip/fish.json
 https://11405.kstore.space/xiaye/qk4k.json
 https://ztha.top/TVBox/thdjk.json
 https://www.cttv.vip/ys/json/ctys.json
@@ -130,9 +128,7 @@ http://mitvbox.xyz/小米/DEMO.json
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 https://14286.kstore.space/zb/yings/zy/Newbox_webview.txt
-https://www.ls660.com/TV/iptv.txt
 https://1812012130.cdn.123clouddisk.com/1812012130/31116800
-https://www.ls660.com/TV/tvbox.json
 https://1812012130.cdn.123clouddisk.com/1812012130/30824909
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/2026.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/dfvdv.json
@@ -221,7 +217,6 @@ https://ghfast.top/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/
 https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
 https://9280.kstore.vip/aiwex.json
 https://9280.kstore.space/aiwex.json
-http://ai.xn--4kq62z5rby2qupq9ub.top/
 http://new.王二小放牛娃.top/
 http://new.999888123.xyz/
 http://new.999888987.xyz/
@@ -306,7 +301,6 @@ http://47.96.82.41:5188/api.json
 https://qist.wyfc.qzz.io/jsm.json
 https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
 https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
-https://www.ls660.com/TV/fantanyingtv.json
 http://bobohome.ignorelist.com:20247/🐅嗷呜/
 https://9763.kstore.vip/aowu.json
 https://cr.5987768.xyz/晨瑞黑科/movie.php
@@ -392,6 +386,7 @@ https://700sjro44343.vicp.fun/eggp/0211/tv.json
 https://700sjro44343.vicp.fun/eggp/qzku/tv.json
 http://mzrjk.top/
 http://mzrjk.top/唱戏
+http://tvjuhe.mitetech.cn:5622/
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json
 http://8.138.7.223/tv.txt
 https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json
@@ -404,6 +399,7 @@ http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 http://210.245.166.84:1299/live/live1.txt
 https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
 http://210.245.166.84:1299/live/live.txt
+https://ds65.tv1288.xyz
 https://wget.la/
 http://www.饭太硬.cc/tv
 https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
@@ -456,8 +452,10 @@ http://tvbox.王二小放牛娃.top
 http://www.英格里希嗷呜.top/tv
 https://9280.kstore.vip/newwex.json
 https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
+https://6800.Kstore.vip/fish.json
 http://肥猫.net/
 http://itv666.cc/aowu/config.webp
+https://pastecode.dev/raw/7tvw3n7c/kuzis.json
 https://www.252035.xyz/z/FongMi.json
 http://我不是.摸鱼儿.cc
 http://我不是.摸鱼儿.top
@@ -569,7 +567,6 @@ https://9280.kstore.vip/newwex.json
 https://6800.kstore.vip/fish.json
 http://肥猫.net/
 http://肥猫.net/tv
-https://www.ls660.com/TV/iptv.txt
 http://tvbox.王二小放牛娃.top
 https://700sjro44343.vicp.fun/eggp/0415/tv.php
 https://www.cttv.vip/ys/json/ctys.json
@@ -621,7 +618,6 @@ http://hb.小虎斑.site:25252/仅供测试
 http://我不是.摸鱼儿.top
 http://我不是.摸鱼儿.com
 http://tvbox.王二小放牛娃.top
-https://www.ls660.com/TV/tvbox.json
 https://宝盒接口.top
 http://我不是.摸鱼儿.com
 http://tvbox.王二小放牛娃.top
@@ -712,8 +708,6 @@ http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 https://9280.kstore.vip/cat/index.js.md5
-https://www.ls660.com/TV/tvbox.json
-https://www.ls660.com/TV/tvbox.json
 https://6800.kstore.vip/fish.json
 http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 https://9280.kstore.vip/cat/index.js.md5
@@ -784,7 +778,6 @@ http://我不是.摸鱼儿.com
 http://我不是.摸鱼儿.top
 http://宝盒接口.top
 http://cnmb.cc.cd/jk/xnf.json
-https://www.ls660.com/TV/tvbox.json
 http://tv.weidonglong.com/ysc5.json
 https://dxawi.github.io/0/0.json
 https://api.hgyx.vip/hgyx.json
@@ -882,6 +875,7 @@ http://fty.333232.xyz/tv
 http://tvbox.xn--4kq62z5rby2qupq9ub.top/
 https://tvkj.top/DC/ysc/tvkj/svip.jsonVIP
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+http://饭太硬.top/tv
 https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json
 https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json
@@ -910,7 +904,6 @@ http://fty.888484.xyz/tv
 http://fty.333232.xyz/tv
 http://tvbox.王二小放牛娃.top
 http://我不是.摸鱼儿.com
-https://www.ls660.com/TV/tvbox.json
 http://宝盒接口.top
 http://影视仓接口.top
 http://www.饭太硬.net/tv
@@ -1095,6 +1088,7 @@ http://home.jundie.top:81/top98.json
 http://box.nihaohezi.com/app/hzjy.json
 https://d.kstore.dev/download/4071/api/api.json
 https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json
+http://530.my3v.work/hxck.json
 https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json
 https://d.kstore.dev/download/12020/t4.json
 http://550.3vcn.work/wdjyys.json
@@ -1116,6 +1110,7 @@ http://api.lmxsd.cn/2485.txt
 https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://live.hacks.tools/tv/iptv4.txt
+https://live.hacks.tools/tv/iptv4.m3u
 http://wuguangle.serv00.net/zjdhk.json
 https://12586.kstore.space/123.txt
 https://d.kstore.dev/download/12020/t4.json
@@ -1357,8 +1352,6 @@ https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/favnet.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/net.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tb.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json
-https://api.btstu.cn/sjbz/?lx=dongman
-http://api.btstu.cn/sjbz/?lx=meizi
 https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
@@ -1437,7 +1430,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/j
 https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json
 https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json
 http://byyds.top/w.txt分享君接口
-https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
 http://drpy.site/js1小雅dr
 http://宝盒接口.top
@@ -1857,7 +1849,6 @@ https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tb.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json
 https://api.btstu.cn/sjbz/?lx=dongman
 http://api.btstu.cn/sjbz/?lx=meizi
-https://pictures.catvod.eu.org/
 https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
@@ -1939,6 +1930,7 @@ https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json
 http://byyds.top/w.txt分享君接口
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
+https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt潇洒
 http://drpy.site/js1小雅dr
 http://宝盒接口.top
 https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
@@ -2049,6 +2041,7 @@ https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/tbnet.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/tvbox.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/xc.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/ysc.json
+http://530.my3v.work/f.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
 https://raw.liucn.cc/box/m.json
 https://qu.ax/uanw.json
@@ -2599,7 +2592,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2
 https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 https://api.btstu.cn/sjbz/?lx=dongman
 http://api.btstu.cn/sjbz/?lx=meizi
-https://pictures.catvod.eu.org/
 http://www.饭太硬.top/tv/
 http://我不是.摸鱼儿.top
 https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
@@ -2609,7 +2601,6 @@ https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json
 https://gh-proxy.com
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json
 https://qist.ugigc.dpdns.org/xiaosa/api.json
-https://xccl98.xyz/
 https://piratebayproxy.net/zh/
 https://laowangun.top/
 https://skrbtqc.top/
@@ -2628,6 +2619,7 @@ https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json
 http://byyds.top/w.txt分享君接口
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
+https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt潇洒
 http://drpy.site/js1小雅dr
 http://ztha.top/TVBox/thdjk.json
 http://ztha.top/TVBox/GYCK.json
@@ -2885,6 +2877,7 @@ http://ficfac.com/box/box.json
 http://ztha.top/TVBox/thdjk.json
 https://live.iptv365.org/live.txt
 https://www.yingm.cc/subscribe/dm.json
+http://530.my3v.work/tvbox/动漫专线/动漫专线.json
 http://www.饭太硬.net/tv
 http://我不是.摸鱼儿.top
 http://tvbox.王二小放牛娃.top
@@ -2951,6 +2944,7 @@ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://live.fanmingming.com/radio/m3u/index.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json
+http://tvkj.top/DC.txt
 https://atomgit.com/66dashun/xiazheng/raw/master/d.json
 https://gitlab.com/duomv/apps/-/raw/main/fast.json
 https://agit.ai/leevi/apps/raw/branch/main/fast.json
@@ -3011,6 +3005,7 @@ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://live.fanmingming.com/radio/m3u/index.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json
+http://tvkj.top/DC.txt
 https://atomgit.com/66dashun/xiazheng/raw/master/d.json
 https://gitlab.com/duomv/apps/-/raw/main/fast.json
 https://agit.ai/leevi/apps/raw/branch/main/fast.json
@@ -3102,8 +3097,11 @@ http://www.饭太硬.net/tv
 http://fty.888484.xyz/tv
 http://fty.333232.xyz/tv
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/247影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/cntv央视.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_bilibili.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_hitv.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_次元.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_电影猎手.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_黑料.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/九龙趣看.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/五五短剧.py
@@ -3111,14 +3109,14 @@ https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/ma
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/可达影视.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/娱乐大师.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
+https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/皮皮虾影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/素白白.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/视觉.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/酷云.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/金牌.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
 https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/黑料.py
 https://12586.kstore.space/123.txt
 https://12586.kstore.space/123.json
@@ -3266,7 +3264,6 @@ https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tb.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json
 https://api.btstu.cn/sjbz/?lx=dongman
 http://api.btstu.cn/sjbz/?lx=meizi
-https://pictures.catvod.eu.org/
 https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
@@ -3348,6 +3345,7 @@ https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json
 http://byyds.top/w.txt分享君接口
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
+https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt潇洒
 http://drpy.site/js1小雅dr
 http://宝盒接口.top
 https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
@@ -3458,6 +3456,7 @@ https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/tbnet.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/tvbox.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/xc.json
 https://ghp.ci/https://raw.githubusercontent.com/s14685/tv/main/ysc.json
+http://530.my3v.work/f.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
 https://raw.liucn.cc/box/m.json
 https://qu.ax/uanw.json
@@ -3766,7 +3765,6 @@ https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tb.json
 https://ghfast.top/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json
 https://api.btstu.cn/sjbz/?lx=dongman
 http://api.btstu.cn/sjbz/?lx=meizi
-https://pictures.catvod.eu.org/
 https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
@@ -3848,6 +3846,7 @@ https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json
 http://byyds.top/w.txt分享君接口
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
 http://js.134584.xyz/json/pp87.json白嫖
+https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt潇洒
 http://drpy.site/js1小雅dr
 http://宝盒接口.top
 https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
