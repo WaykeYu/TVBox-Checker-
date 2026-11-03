@@ -824,3 +824,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
 长期多仓接口：https://www.ls660.com/TV/tvbox.json
 https://www.ls660.com/TV/fantanyingtv.json
 （10） http://api.btstu.cn/sjbz/?lx=suiji
+饭太硬线路：http://饭太硬.top/tv
+网友线路：http://xutv.alwaysdata.net/xu1027.json
+欧歌接口：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+小米线路：http://xhww.fun:63/小米/DEMO.json
