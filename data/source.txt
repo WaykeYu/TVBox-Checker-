@@ -128,7 +128,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlineru
 https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json 看电视直播秒开
 https://agit.ai/ddx/TVBox/raw/branch/master/t4.js
 https://11405.kstore.space/xiaye/1080.json
-https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
 https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json
 https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/dfvdv.json
 https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json
@@ -161,7 +160,6 @@ https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/m
 https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
 https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
 https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
-4K接口： http://v-dragon.com.hk/4k/
 大佬接口：https://tv.203511.xyz/0821.json
 荷城茶秀：https://jihulab.com/z-blog/xh2/-/raw/main/t.json
 小鱼干接口：http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json
@@ -191,7 +189,6 @@ https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
 http://epg.112114.xyz
 聚玩盒子：http://xhztv.top/xhz/
 宝盒视界：https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json
-一哥接口：http://ficfac.com/ijia/app.json
 PG接口：https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json
 教育专线1: http://box.nihaohezi.com/app/hzjy.json
 教育专线2: https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
@@ -453,7 +450,6 @@ https://ztha.top/TVBox/GYCK.json
 点播：https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
 开源地址: https://github.com/wwb521/live
 https://ghp.ml1.one/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
-独家http://ficfac.com/tv/box.json
 残月线路https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
 雷蒙线路https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json
 TVBOX软件：百度云：https://pan.baidu.com/s/1RlYqlAzjDRQKBJAY7n8V_g?pwd=zone 提取码:zone UC盘链接：https://drive.uc.cn/s/9b06cfa319864?public=1 夸克网盘：https://pan.quark.cn/s/2cf9f8494180
@@ -529,9 +525,6 @@ https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master
 多仓：https://yubox.xyz/dc.json
 https://live.iptv365.org
 https://live.iptv365.org/live.txt
-http://ficfac.com/tv/2024.json
-http://ficfac.com/box/2024.json
-http://ficfac.com/box/box.json
 https://www.yingm.cc/subscribe/dm.json
 https://gitlab.com/dokiss/tvbox/-/raw//%E5%9C%A5%E5%BF%88.json
 https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin
@@ -567,7 +560,6 @@ https://wds.ecsxs.com/216537.json
 https://wds.ecsxs.com/213313.json
 ™摸鱼儿源：https://www.摸鱼儿.com/
 肥猫宝贝 - , https://ghfast.top/https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json
-爱尚多仓：https://wds.ecsxs.com/231978.json
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 蜗牛影视(备用) - https://蜗牛.top/tv.json
 http://gg.gg/cccvvv
@@ -586,9 +578,7 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/
 DG接口http://1.94.31.214/live/live9/dgtv.txt
 电视多接口https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 易发接口http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-天狼接口http://210.245.166.84:1299/live/live1.txt
 DSJ接口https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
-龙壹接口http://210.245.166.84:1299/live/live.txt
 YY轮播接口https://wget.la/
 https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 http://www.英格里希嗷呜.top
@@ -600,7 +590,6 @@ https://700sjro44343.vicp.fun/240731/one/
 安卓三代接口 https://9280.kstore.vip/aiwex.json
 https://9280.kstore.space/aiwex.json
 http://ysys.lic10.cn/ys/
-http://210.245.166.68:1188/tvbox/cun/chun.bmp
 https://d.kstore.dev/download/14505/%E5%A4%A9%E7%A5%9EIY.json
 https://play.iptv365.org/摸鱼儿/api.json
 https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
@@ -676,9 +665,6 @@ tv家庭线路1 - https://tv.nxog.top/
 https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json 香雅情线
 讴歌： https://tv.nxog.top?&v7m
 欧歌：http://xn-dkwOc.v.nxog.top
-https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多影音.txt
-https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多应用汇.txt
-https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多软件库.txt
 http://www.su7.run/
 【AKTV】订阅链接：https://aktv.space/live.m3u
 欧歌线路 - http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
@@ -706,7 +692,6 @@ http://bobohome.ignorelist.com:20247/tencent/banners
 高天流云 https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
 https://box.iqinu.com/
 https://www.cwss.xyz/刺猬线路禁止噪声
-https://www.rjjjh.com/xzbgg.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
 霜辉月明 https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
@@ -772,7 +757,6 @@ sss通用源(长期稳定)，http://www.xn--sss604efuw.net/tv
 https://0.12yue.de5.net/tvbox/肥猫.json
 虎斑 http://hb.小虎斑.site:25252/仅供测试
 吾爱 http://52bsj.vip :98/wuai
-肥猫主接口: http://肥猫.net/tv
 http://xn--dkw0c.zb.xn--dkw.xn--6qq986b3xl
 海阔菠菜源https://github.com/zhujiejie/LunaTV-config/blob/main/LunaTV-config.json
 http://new.王二小放牛娃.top/
@@ -811,7 +795,6 @@ https://pastecode.dev/raw/7tvw3n7c/kuzis.json
 https://live.hacks.tools/tv/iptv4.m3u
 http://ai.xn--4kq62z5rby2qupq9ub.top/
 http://tvjuhe.mitetech.cn:5622/
-（8） https://api.btstu.cn/sjbz/?lx=dongman
 （9） http://api.btstu.cn/sjbz/?lx=meizi
 https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png Lllyin路线
 https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0星河接口
@@ -824,7 +807,4 @@ https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
 长期多仓接口：https://www.ls660.com/TV/tvbox.json
 https://www.ls660.com/TV/fantanyingtv.json
 （10） http://api.btstu.cn/sjbz/?lx=suiji
-饭太硬线路：http://饭太硬.top/tv
-网友线路：http://xutv.alwaysdata.net/xu1027.json
 欧歌接口：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
-小米线路：http://xhww.fun:63/小米/DEMO.json

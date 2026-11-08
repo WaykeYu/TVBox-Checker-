@@ -4,42 +4,49 @@
 
 | 項目 | 數量 | 比例 |
 |------|------|------|
-| 總網址數 | 844 | 100% |
-| ✅ 有效 | 831 | 98.5% |
-| ❌ 失效 | 13 | 1.5% |
-| 🔄 重複 | 0 | 0.0% |
+| 總網址數 | 835 | 100% |
+| ✅ 有效 | 815 | 97.6% |
+| ❌ 失效 | 19 | 2.3% |
+| 🔄 重複 | 1 | 0.1% |
 
 ## 🧹 清理統計
 
 - **移除空白行**：0 行
-- **移除無網址/重複行**：2 行
+- **移除無網址/重複行**：10 行
 
-## ✅ 有效網址 (831)
+## ✅ 有效網址 (815)
 
 有效網址已儲存至：`data/source.txt`
 
 ## ❌ 無效網址列表
 
-- `https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`
-- `https://ddzb.fun/dgmusic/api.json`
-- `https://8815.kstore.vip/tvbox/wmz`
-- `http://xzam.cn/tv`
-- `https://tvkj.top/tvlive.txt`
-- `https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt潇洒`
-- `http://tvkj.top/tvlive.txt`
-- `http://tvkj.top/DC.txt`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py`
-- `https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py`
+- `https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json`
+- `http://v-dragon.com.hk/4k/`
+- `http://ficfac.com/ijia/app.json`
+- `http://ficfac.com/tv/box.json`
+- `http://ficfac.com/tv/2024.json`
+- `http://ficfac.com/box/2024.json`
+- `http://ficfac.com/box/box.json`
+- `https://wds.ecsxs.com/231978.json`
+- `http://210.245.166.84:1299/live/live1.txt`
+- `http://210.245.166.84:1299/live/live.txt`
+- `http://210.245.166.68:1188/tvbox/cun/chun.bmp`
+- `https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多影音.txt`
+- `https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多应用汇.txt`
+- `https://framagit.org/xduo/cool/-/raw/main/ck/公众号多多软件库.txt`
+- `https://www.rjjjh.com/xzbgg.json`
+- `http://肥猫.net/tv`
+- `https://api.btstu.cn/sjbz/?lx=dongman`
+- `http://xutv.alwaysdata.net/xu1027.json`
+- `http://xhww.fun:63/小米/DEMO.json`
 完整清單請查看：`data/invalid_urls.txt`
 
 ## 🔄 重複網址列表
 
-✅ 沒有重複網址
+- `http://饭太硬.top/tv`
+完整清單請查看：`data/duplicate_urls.txt`
 
 ---
-🕐 更新時間：2026-11-01 03:49:10
+🕐 更新時間：2026-11-08 03:53:36
 
 ✅ 報告由 TVBox URL Checker Pro v4.9 自動生成
