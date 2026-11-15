@@ -565,7 +565,6 @@ https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 http://gg.gg/cccvvv
 https://upld.zone.id/uploads/q9iq9e5iq/tvboxlvse.json
 YANG-1989直播接口：https://tv.iill.top/m3u/Gather
-https://www.lianyingtv.com/fast/fast
 星微Vip线：https://7337.kstore.vip/xw/测试勿传
 嗨哥魔改：https://api.hgyx.vip/hgyx.json
 香雅情线https://play.iptv365.org/香雅情/api.json
@@ -639,7 +638,6 @@ https://d.kstore.dev/download/6651/api.json
 https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt
 [ ] 范明明：https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 NewBox专属https://14286.kstore.space/zb/yings/zy/Newbox_webview.txt
-嗷呜线路： http://itv666.cc/aowu/config.webp
 http://cccccccoccccccc.ccccocccc.cc/uploads/%E7%AB%A5%E5%BF%83%E6%96%B0%E5%BD%B1%E8%A7%86.txt
 南博兔① - http://woniu.ccccocccc.cc/nbt.txt
 备用：http://mitvbox.xyz/小米/DEMO.json
@@ -741,7 +739,6 @@ https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 🟡 BearTV：https://github.com/haha459862/BearTV
 🔴 tv-player：https://github.com/tv-player
 1 大白™：https://pan.gt68.cn/
-2 摆渡™：https://pan.baidu.re/
 3 彩虹™：https://cccimg.com/
 6 惜染™：https://mpimg.cn/
 14 逍遥网盘：http://file.cry33.com/
@@ -754,7 +751,6 @@ https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 拾光，https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
 sss通用源(长期稳定)，http://www.xn--sss604efuw.net/tv
 https://0.12yue.de5.net/tvbox/肥猫.json
-虎斑 http://hb.小虎斑.site:25252/仅供测试
 吾爱 http://52bsj.vip :98/wuai
 http://xn--dkw0c.zb.xn--dkw.xn--6qq986b3xl
 海阔菠菜源https://github.com/zhujiejie/LunaTV-config/blob/main/LunaTV-config.json
@@ -769,7 +765,6 @@ http://new.999888987.xyz/
 肥猫：http://肥猫.net/
 http://tvbox.xn--4kq62z5rby2qupq9ub.top/
 2.拾光多仓:http://xmbjm.fh4u.org/dc.txt
-http://hb.小虎斑.site:25252/仅供测试/
 http://tv.999888123.xyz
 主用 http://ygbh.site/max.php
 备用 http://ygbh.site/box.php
@@ -818,35 +813,19 @@ https://www.rjjjh.com/xzbgg.json
 时光线路https://jiekou.netlify.app/svip.json
 http://210.245.166.68:1188/tvbox/cun/chun.bmp
 http://ficfac.com/tv/box.json
-http://www.饭太硬.art/tv/
 天狼接口http://210.245.166.84:1299/live/live1.txt
 龙壹接口http://210.245.166.84:1299/live/live.txt
 http://bp.tvbox.cam/
-http://yuan.haitangw.net/tv/
-http://yuan.haitangw.net/box/
 http://tv.999888987.xyz
 YH源： https://yydsys.top/duo
 https://xn--dkz-mf3g9f.u.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌dkz
 https://xn--d4u-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌d4u
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/光速.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/几个亿影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/奈飞影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/娱乐大师.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/新视觉.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/星空影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/映播.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/游子视频.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/皮皮虾影视.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/策驰影院.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/荐片.py
-https://slink.ltd/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/首映网.py
 ™欧歌线路：https://欧歌.v.nxog.top/
 （8） https://api.btstu.cn/sjbz/?lx=dongman
 欧哥：https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh
 讴歌：https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌
 爱尚多仓：https://wds.ecsxs.com/231978.json
 欧歌线路(备用) - https://xn--appa-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=ap欧歌pa
-(8) https://xn-8ox-mf3g9f.v.nxog.top/m//t/
 磁力吧：https://cili.bar/
 http://ficfac.com/tv/2024.json
 http://ficfac.com/box/2024.json
